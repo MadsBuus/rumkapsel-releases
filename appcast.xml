@@ -3,13 +3,24 @@
     <channel>
         <title>rumkapsel</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 09 Sep 2026 10:23:59 +0200</pubDate>
+            <sparkle:version>202609091023</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.1.1/rumkapsel-0.1.1.zip" length="1938558" type="application/octet-stream" sparkle:edSignature="WW5RcpLLHX/mqTyg3W1vg1HTAcYVSjKrCJIHC27ExJ3EVE3Qxyfp3f/AyHSLeNp+VUV/HUC8GsTtdqMj+nu+BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.1.1/rumkapsel202609091023-202609091005.delta" sparkle:deltaFrom="202609091005" length="321910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7srfaS/OiBEjvXOvlQpvF8OVbHEYO8QngLnV8VLisFGECVNR2DAja189w2GPnFmOtEJRd7j1A26tlay4S2EhCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1</title>
             <pubDate>Wed, 09 Sep 2026 10:06:55 +0200</pubDate>
             <sparkle:version>202609091005</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.1/rumkapsel-0.1.zip" length="1559587" type="application/octet-stream" sparkle:edSignature="jVWD5NxYnrX8j+dbMRK1w03cKoPEfe9iynDwcbCqM9Kwwtg3yTnKsrid2dfUbjpPR/22FMPnmaUilRnBMw3wAg=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.1.1/rumkapsel-0.1.zip" length="1559587" type="application/octet-stream" sparkle:edSignature="jVWD5NxYnrX8j+dbMRK1w03cKoPEfe9iynDwcbCqM9Kwwtg3yTnKsrid2dfUbjpPR/22FMPnmaUilRnBMw3wAg=="/>
         </item>
     </channel>
 </rss>
