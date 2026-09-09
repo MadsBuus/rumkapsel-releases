@@ -3,12 +3,27 @@
     <channel>
         <title>rumkapsel</title>
         <item>
+            <title>0.8</title>
+            <pubDate>Wed, 09 Sep 2026 12:54:31 +0200</pubDate>
+            <sparkle:version>202609091253</sparkle:version>
+            <sparkle:shortVersionString>0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.8/rumkapsel-0.8.zip" length="2148828" type="application/octet-stream" sparkle:edSignature="0JST9t3rx7Ah6AD+Rl7hkuXM9axvQ1mUIJd0uQicYlJoCwru1nEP3jfP9ujLhWWzDr27pGefIM4vAu1iW134DA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.8/rumkapsel202609091253-202609091249.delta" sparkle:deltaFrom="202609091249" length="169026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LfxA/b2i2ywofh58ElKlRJiABp0Sv0BGod7R7G9f/IjpQYv52bf29rM0PDX2wr4W242UG/hZm8FEyKdh0GjSBQ=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.8/rumkapsel202609091253-202609091242.delta" sparkle:deltaFrom="202609091242" length="241778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VFQP72cb2aFOmTCUVZWaylcaEeRYItWGR35CLS6CJcN16DHCMmgCDXGK3O+XlC29q/oIk8F1hd4ig4ZaJxAFCA=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.8/rumkapsel202609091253-202609091227.delta" sparkle:deltaFrom="202609091227" length="257122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5TgSXM7TdoIMnYh7u6/k6in9KZmZ2M4QisJ2PfDPfsqSy4OBxuZrBT+UxYhhSSasoUWZ/OrKzsmwJfUGDlIaDw=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.8/rumkapsel202609091253-202609091215.delta" sparkle:deltaFrom="202609091215" length="304166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YXvnzeGoApsxMvDbFwyM8E63/xvtE1Sp73+fMvZrnZwtmFwNpRCWkBLfLqGJ7dP0DtE2Q9Nf5fm6HJVIaPdJCQ=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.8/rumkapsel202609091253-202609091113.delta" sparkle:deltaFrom="202609091113" length="371186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YINnROfRiYMq0B/HmsFyV1s1GRAYkqzaljMTRevs1v0yTaq0csTUoyY5GwVjFIxVD3vb/uw3fFPy5/HldinzDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.7</title>
             <pubDate>Wed, 09 Sep 2026 12:50:45 +0200</pubDate>
             <sparkle:version>202609091249</sparkle:version>
             <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.7/rumkapsel-0.7.zip" length="2142415" type="application/octet-stream" sparkle:edSignature="wlXw48Xc+od1l9inuKNY00+Fsjvje4ioHTwCTMbzSRNAtEKonuiTlAb2hFiANlMiSgvwajS0/UMvdgyBZFGJBA=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.8/rumkapsel-0.7.zip" length="2142415" type="application/octet-stream" sparkle:edSignature="wlXw48Xc+od1l9inuKNY00+Fsjvje4ioHTwCTMbzSRNAtEKonuiTlAb2hFiANlMiSgvwajS0/UMvdgyBZFGJBA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.7/rumkapsel202609091249-202609091242.delta" sparkle:deltaFrom="202609091242" length="214138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sxgVeYRZoFHgaFNai+6y3fxyE2yob7EQx044mxz71oOWFJc52EU8TM0IAJdD9nUtxtErJlw0c/+zO8OMePoJBg=="/>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.7/rumkapsel202609091249-202609091227.delta" sparkle:deltaFrom="202609091227" length="229294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wS67u7wrDFzEgrTL9ToNbbISmMXUi8qsZ7tS0BgO/PJQDRFACqARKl1fMZdC8JHFBG1GDqDw2BJnRmii/XXpDg=="/>
@@ -23,7 +38,7 @@
             <sparkle:version>202609091242</sparkle:version>
             <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.7/rumkapsel-0.6.zip" length="2126865" type="application/octet-stream" sparkle:edSignature="qmMzJHSDMbkKKfEIxsMKHaLU6upGJUYFyg5QiyQztxnmZt4ZIeG6j8B0qVwNJLYvqOmfIvccCHQDA9MbDRu2Cw=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.8/rumkapsel-0.6.zip" length="2126865" type="application/octet-stream" sparkle:edSignature="qmMzJHSDMbkKKfEIxsMKHaLU6upGJUYFyg5QiyQztxnmZt4ZIeG6j8B0qVwNJLYvqOmfIvccCHQDA9MbDRu2Cw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.6/rumkapsel202609091242-202609091227.delta" sparkle:deltaFrom="202609091227" length="135458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/+wlQ6j+31A+K03ss4P9rvO1llQSQrByjjItX5SvfFIenFmCHsxy140PBirqQur/DZix50KBAsk12ybTyO5pCw=="/>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.6/rumkapsel202609091242-202609091215.delta" sparkle:deltaFrom="202609091215" length="217018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/TARcpgdtuNwfxp/DLLx0p3QQWRHv3kuTqywmc9skoUZCHDVlI3URPWqpz5R3U6vjqQqNJern8U0dAqHI0P0Cw=="/>
@@ -33,28 +48,13 @@
             </sparkle:deltas>
         </item>
         <item>
-            <title>0.5</title>
-            <pubDate>Wed, 09 Sep 2026 12:28:54 +0200</pubDate>
-            <sparkle:version>202609091227</sparkle:version>
-            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.7/rumkapsel-0.5.zip" length="2125110" type="application/octet-stream" sparkle:edSignature="V++lltwJzYoalRS9KXxcblJ0UcelNbNniIaFyiZIwg2HQgdZ7ZEpL259J5UB+oipvQeJiGa6ho3pl3LjLdRHDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.5/rumkapsel202609091227-202609091215.delta" sparkle:deltaFrom="202609091215" length="204934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LjEnNJgoBKT4gTORYmWTE2CaU2M7sPeaP1ncbwqHeH9Z+dqCgICoHMjKKU2SuHjuYyihsEheVZKigZ4h/DaVCQ=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.5/rumkapsel202609091227-202609091113.delta" sparkle:deltaFrom="202609091113" length="319290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BENzLIx1CdxtWMz1a84Gos+NbuqJzju0TZM7Yf6ufRVaTNb0BQTEwgee20MyDL429jTW/PlfFL8kyaGnM2KGCQ=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.5/rumkapsel202609091227-202609091028.delta" sparkle:deltaFrom="202609091028" length="409870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JDD1SyGYF2dKDqUs5KiCYg8rMof3zgeC0AwkevSg6DKAR0f7MoJF0aqDdvh7MdZtKtMTeQuPIljt3xyNsDWqDg=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.5/rumkapsel202609091227-202609091027.delta" sparkle:deltaFrom="202609091027" length="408978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6YU+AYslDmpSyFmykpBtG2JmwsxDr4cgTr1d5HgEqQ48qyGfQZIcnflDS6Q4E7olqFt97cP854q/3rpzvsHXDA=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.5/rumkapsel202609091227-202609091023.delta" sparkle:deltaFrom="202609091023" length="414098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a5GDx0NwWehPAcfTzXW+ae0f3gMpaSyORmqT6ZcNr/sn9/nC1t1f7Z6JLiXWnnZ4MUIZDMNdRKo7r897PEdFAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
             <title>0.1</title>
             <pubDate>Wed, 09 Sep 2026 10:06:55 +0200</pubDate>
             <sparkle:version>202609091005</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.7/rumkapsel-0.1.zip" length="1559587" type="application/octet-stream" sparkle:edSignature="jVWD5NxYnrX8j+dbMRK1w03cKoPEfe9iynDwcbCqM9Kwwtg3yTnKsrid2dfUbjpPR/22FMPnmaUilRnBMw3wAg=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.8/rumkapsel-0.1.zip" length="1559587" type="application/octet-stream" sparkle:edSignature="jVWD5NxYnrX8j+dbMRK1w03cKoPEfe9iynDwcbCqM9Kwwtg3yTnKsrid2dfUbjpPR/22FMPnmaUilRnBMw3wAg=="/>
         </item>
     </channel>
 </rss>
