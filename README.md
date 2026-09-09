@@ -4,7 +4,7 @@ Your Claude Code sessions and Conductor workspaces as a little space station on 
 
 **Install:** download the latest zip from [Releases](https://github.com/MadsBuus/rumkapsel-releases/releases), unzip, move to Applications. The app updates itself.
 
-**Feedback:** use the app menu (Request a Feature… / Report a Bug…) or [open an issue](https://github.com/MadsBuus/rumkapsel-releases/issues/new).
+**Source and pull requests:** [github.com/MadsBuus/rumkapsel](https://github.com/MadsBuus/rumkapsel). Feedback via the app menu or [issues](https://github.com/MadsBuus/rumkapsel/issues).
 
 ## A homage
 
