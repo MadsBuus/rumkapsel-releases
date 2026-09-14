@@ -3,6 +3,215 @@
     <channel>
         <title>rumkapsel</title>
         <item>
+            <title>0.27.1</title>
+            <pubDate>Mon, 14 Sep 2026 13:59:21 +0200</pubDate>
+            <sparkle:version>202609141356</sparkle:version>
+            <sparkle:shortVersionString>0.27.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>A teammate's reaction ends before rest or the next reaction moves the body: the ownership rule had refused both, leaving teammates reacting from bed</li>
+<li>A relaunch takes the source's word again: a hand move from before is history, except aboard the rocket</li>
+<li>A source that changes its mind while a crate is on its way stands over the landing: the ledger remembers the yard an order was made against, so a board move during a haul is carried on after it lands rather than buried under the station's newer move; ledger rows in the state dump</li>
+<li>A rocket is loaded from the front: the crate aims at the tile before its own rocket's hull and the rocket is an obstacle, walked round, never through; whoever yields right of way steps aside where no way round exists; a chore never stands in a doorway; a verbose scenario and a simulator snapshot dump every body</li>
+<li>A crate is a task: an office's package takes the issue its pull request closes, the pull request's own number when it closes none; the link is learned from every pull request answer and the board and kept with the board; git's release cargo is translated to tasks on the floor; a crate's hover lists its pull requests and its click opens the task</li>
+<li>Any timed phase is steady, a teammate's reaction included; someone on a couch or in bed is off the walkway and in nobody's way; a given-up reaction ends the way a reaction ends</li>
+<li>A delivery is picked up, period: a new office's crate is an order by number shared by the shuttle, the floor and the carrier, so an office renamed while its ship is in the air is still walked in; a crate on the bay floor with nobody fetching goes to the next free hands and folds away only if its office is gone; a bay slot is free only when nothing lies on it; named waits give up after ninety station seconds; bodies solid by default; a state dump on SIGUSR1</li>
+<li>A job queued behind a rest survives the next rest re-plan, and begins the moment a worker is out of the shuttle</li>
+<li>The board's delta asks every not-shipped item by number, since a move on the board never touches the issue's own timestamp and the search missed every move; the running station writes station.log in Application Support: events, commands, give-ups and GitHub asks</li>
+<li>The counters and titles count your sessions only, not teammates, subagents or freed workers; options to hide the private station and the repository titles; the GitHub interval explained as the backstop it is</li>
+<li>One owner per body and a body reconciler: the command in hand owns place, path and pose, and send refuses anything else; a body standing still ten seconds in a phase that should move, waiting on nothing named, gives up and says so; a given-up carry goes back in the queue from where the crate lies, an office crate back on the bay list for the next free hands; deliveries are a queue; right of way when two meet; a scenario fails on an unexpected give-up; rockets standing by and due rings follow the pad when the floor grows</li>
+<li>A visit lasts its whole time: a session refresh no longer re-plans a bather's or a chore's rest under them; the shuttle holds over its slot until the carrier stands beside it; a floor change re-plans a fetch to the crate, not at random; a minion standing still mid-command for ten seconds says so in the log</li>
+<li>Two can pass on one tile, never through each other: a body is solid at its tile's middle, the way past runs along the edge; room rules written down: one doorway kept clear, fixtures along the walls, the sign in the far corner</li>
+<li>Nothing sits in a doorway: beds keep off the dorm's door cell and the bath's fixtures off its door and sign; a walk whose only way is past someone waits on them instead of finding no way; the Bath press picks like the Workout press</li>
+<li>The Workout press takes whoever is resting: a lounger first, then a quiet worker still counted busy, then a sleeping teammate; a turn in the gym is not cut short by a session refresh re-planning rest</li>
+<li>Faster feedback from GitHub: the board's delta, the feed as a doorbell, asks that expect a change</li>
+<li>The gym: a room off the living cluster, four fixtures, a turn that lasts its whole time</li>
+<li>A crate is a merged pull request: the rule as a check, the pull request asked by number</li>
+<li>A teammate's pull request that leaves the open list is asked whether it merged or closed</li>
+<li>The pallet's state has one home, every crate has a number, and the architecture notes are checked</li>
+<li>Leftovers off the floor, and the audit says what the code says</li>
+<li>A carry names a yard; the place is asked for on the way and remembered on the row</li>
+<li>One truth per crate: where the station has it joins its ledger row</li>
+<li>Truth before the picture, a carrier that hurries, and the reconciler per crate</li>
+<li>Station time is one value, and a route no longer rebuilds the yard on every step</li>
+<li>One crate ledger: the source's word and the station's, per crate, and the counts read off it</li>
+<li>The scenarios judge the run as it happened, not as it was worded</li>
+<li>The two truth scenarios name a crate the way the floor does: an unnumbered one is "a crate"</li>
+<li>Station truth outlasts a source that runs behind: hand landings by yard, one rule for what a yard holds, the reconciler out of the redraw, a redraw that adopts its nodes</li>
+<li>A deck over capacity spreads a repository's crates over its own columns rather than one tower</li>
+<li>Haul progress is read off the crates, not kept in flags: a merged office clears when its package's placement says it is down in the yard; the deck reconciler waits on carried crates</li>
+<li>A merged office clears when its crate lands in storage, not when it is picked up; a checkout that goes away mid-haul waits for the haul; a haul to storage survives the office closing</li>
+<li>A click on any part of a crate opens its pull request: the hit resolves to the named prop</li>
+<li>Repository colours come from the name, the same on every launch; the build stamp lives in About</li>
+<li>The app menu says which commit the build came from</li>
+<li>A wonder beat with a walk ahead is still a walk: the pallet errand begins at the console, not where the order came; cones are not in the way of their own row; a walk never ends on a cell with something standing on its middle</li>
+<li>One cone per session: the message being worked, queued ones in a row behind it, the old one shrinks away; repository names kept with the board so the deck is drawn right from launch; the world's diff runs before the redraw so a cleared crate is carried from where it stood</li>
+<li>A pallet errand is a job nothing calls the operator away from; whoever adopts one stands beside it; cones owed to an office land with its reveal; scenarios can forbid lines</li>
+<li>Shuttle flies on the station clock; the simulator's board catch-up waits on it too; a commit is stowed as a cube by command; the first release answer is quiet</li>
+<li>A pull request newly open on my checkout is announced from the poll's state change, so the office's worker packs it; an approach walks to the stand cell once and shuffles from there</li>
+<li>Carries approach on foot and never from on top of the slot; a pull request is packed by the office's worker; a pallet with no operator gets one; the pusher walks round the pallet</li>
+<li>Offices unfold from the hex at the doorway and roll back up on close; airlock is a 2x2 chamber with working doors; rocket loads through a hatch</li>
+<li>Solid: minions solid to each other, wait then walk round; inner lanes off the walls; walks re-planned when the floor changes; spawns spread into their offices</li>
+<li>STATION.md: an office closes by rolling up into a hex</li>
+<li>Orders: one entry point, a visible beat on a change of orders, phases that advance, a visit that lasts, fixtures reserved, no coin tosses; station time for patience and reactions; a merged office clears when its haul is done; the suite steps station time and runs in under a minute</li>
+<li>One table moves every crate's picture, on the station clock: no scene action moves a crate any more</li>
+<li>The rocket check fires at the climb; chores never stand on a buried cell</li>
+<li>Things are heavy: one lift, one set-down, and no empty launches</li>
+<li>STATION.md: the crate shrinks into the hold</li>
+<li>STATION.md: rockets are loaded at the foot; a moving pallet is solid</li>
+<li>An invariant checker and a scripted scenario suite</li>
+<li>STATION.md: the office unfolds from its crate at the doorway</li>
+<li>STATION.md: no shared spots even at the start, lanes clear of walls, the office ripples out from its crate</li>
+<li>Audit every command and cue against the rulebook</li>
+<li>STATION.md: a change of orders is visible</li>
+<li>The airlock stands in the corridor's line before the bay; the monolith answers with cones of light; crate plates are lights, off in the yard; the idle drift to the pad when a rocket steams</li>
+<li>STATION.md: answers from the interview</li>
+<li>The shower happens under the nozzle for its whole ten seconds; pace by task; QA inspects the stacks, not the floor</li>
+<li>The pallet is heavy: it is shoved one axis at a time</li>
+<li>STATION.md: what things are, what they may do, what may move them</li>
+<li>Every crate keeps its yard slot until it leaves; the pixel patch draws on top of the body; the board button says where it moves the issue; lightning only at the monolith</li>
+<li>Simulator: reset on its own line</li>
+<li>Simulator: a Reset org button that starts the station over</li>
+<li>Rebuild the simulator panel around one target office</li>
+<li>Simulator: a new session's branch goes in the chosen office's repository</li>
+<li>Simulator: issue numbers per repository, and the new-session button says which repo it uses</li>
+<li>A teammate's pull request is a crate with its sticker, not cubes; the office hex keeps its turn on the arms and waits for the ship to lift; the simulator tells a new branch from a pull request</li>
+<li>The staging pallet</li>
+<li>Shuttles, rockets and the crew run commands too</li>
+<li>Closed is not merged: a red crate that fades with the office; one merged event per merge; the rocket waits for crates still on someone's arms</li>
+<li>Carry polish: one crate size, set-down by level (crouch, slide, over the head, hop), the crate stays on the arms until its slot and nothing moves it after</li>
+<li>Split Scene.swift by reason to change</li>
+<li>Carries know the stack: top-down pickup, height-aware postures</li>
+<li>A simulator: the whole pipeline driven by hand, with every event and command in the log</li>
+<li>Spec: a crate is heavy, nothing moves it after release</li>
+<li>Spec: one crate size, no spin on release</li>
+<li>Spec: set-down postures per stack level, still owed</li>
+<li>Spec: set-down postures per stack level</li>
+<li>Spec: closed, not merged</li>
+<li>Pallet spec: impatient dispatcher, telekinetic loading and unloading, a bobbing pallet pushed to the deck</li>
+<li>Commands as values and station truth: minions run one command at a time with interruptible phases; completions write station truth; hover pauses a minion and shows its orders</li>
+<li>Architecture map: where this is going (facts, authority, commands, station truth)</li>
+<li>Split the data layer out of the scene into World</li>
+<li>A crate set down in storage by hand stays until the source counts it</li>
+<li>Cleanup round: per-repository readiness (no shuttles for a late first answer), a WorldEvent seam between diffs and cues, ARCHITECTURE.md</li>
+<li>Shower as a wall nozzle and a drain, clear of the sign; a low coffee table</li>
+<li>Cubes only where they mean something: a slab table on legs, flat tick and portholes; furniture blocks the floor</li>
+<li>A blocky plant: square pot, thin stem, flat leaves</li>
+<li>Nothing round: every turned shape gets four or six flat sides, spheres become cubes</li>
+<li>The bay is outside: with an airlock against it, everyone comes in and goes out through the hatch</li>
+<li>Own tempo and tool rota per minion, chores for loungers, sooner bath visits, an airlock by the bay that departures leave through</li>
+<li>No cone for an office that is gone (crash); a covered cone is worked from the cell beside it; a retarget never leaves the room</li>
+<li>Couch and bed pulls leave minions on errands alone; a carrier gives up its seat; a walker with no path walks straight rather than sliding</li>
+<li>The yard follows GitHub through the minions: crates the board moved to staging are carried across, counts snap only for the rest; the staging haul finds its crates again</li>
+<li>Night is the clock's business alone: a quiet afternoon is spent in the lounge, not in bed</li>
+<li>A merged office stays retired while its session lingers; the minion waits in the lounge instead of rebuilding it every scan</li>
+<li>Updates re-plan rather than reset: settled minions stay, walkers keep their destination; core tiles stop replaying their build; couches drawn by wall, not by index</li>
+<li>Crates are carried to the slot the yard layout will give them, so nothing jumps on landing; lifting is a crouch with the crate passing the chest</li>
+<li>Dorm and bath placed beside the lounge, existing layouts re-clustered; one minion to a couch</li>
+<li>Rules for idleness: read on the couch by day, sleep by night, showers after long work, pees after short, loungers now and then</li>
+<li>The bath's pixel patch sits where it should; a visit is a pee at the bowl or a shower under falling pixels</li>
+<li>Doorways through the yard, a bath with pixel static, a livelier lounge, my name on my offices</li>
+<li>Tested crates nearest the pad, crates grouped by repository in stacks of three</li>
+<li>Deck split into an untested row and a tested row; a tested crate is carried across; status plate on the side, approved sticker on the lid</li>
+<li>Latest release notes in the app menu: What's New shows the notes bundled with the build</li>
+<li>Bold black ink on tiles, boxes and cones keep off the writing and inside their tile</li>
+<li>No board offices before GitHub has said who I am</li>
+<li>An office already on the floor is no proof of work; only peers' claims and checkouts are</li>
+<li>Dark ink on tiles, names as floor signage, open pull requests only, no archive flapping</li>
+<li>Board column decides an office's solidity, not its existence; board state persists across launches</li>
+<li>Yard and cues from the GitHub project board, offices for issues in development, release notes from commits</li>
+<li>Translucent feet under props, the office hex without a plane, cones land clear of crates near the door</li>
+<li>A cell under a crate is no destination: walks settle for the nearest free floor</li>
+<li>Minions walk round crates, boxes and pyramids on a finer grid; aisles through storage and the deck</li>
+<li>PR marker is the square strapped crate again; hex stays the packed office</li>
+<li>Kick offices, honest sharing light, crates with stickers carried by hand, hammer and flashlight, boxes away from the door</li>
+<li>Peers share parsed GitHub answers so one poll serves the room; README on sharing</li>
+<li>Peers share offices by branch onto one work station instead of standing beside it</li>
+<li>Fold the crew station into the work station: teammates' branches share offices with local checkouts</li>
+<li>Cursor-centred zoom, two-finger pan, drag tilt, WASD/QE camera keys, station hotkeys 0-4</li>
+<li>Readable labels on small offices, no closets against the hallway, calm settings changes</li>
+<li>Smaller odd-sized offices, 4x2 bay across the south arm</li>
+<li>Squarer fleet, yard along the west side, cursor-pivot rotate, snappy panning</li>
+<li>Yard in a line with 4x4 storage, staging and pad; couches and a standing crew; loading on clearance with steam; impatient tester</li>
+<li>Worker crew: free workers are reused, shuttles bring more, extras fade when bunks are full</li>
+<li>Pyramids move with their station and vanish with their office</li>
+<li>Production branch per repository: configured, else main, else master</li>
+<li>Prompt pyramids only in offices</li>
+<li>Exact staging/production diff from git; clickable crates; minion shadows; bunk beds with lounge overflow</li>
+<li>Sci-fi tools: flat goggles, tablet, scanner, forward-held hammer; testing sweeps instead of spinning</li>
+<li>Repair cargo detection: only repositories with a real release pipeline, thirty-day floor</li>
+<li>Cargo only for repositories with a real release pipeline; thirty-day floor</li>
+<li>Game-style pyramids with feet, crate packages, minion tools, more distinct routines</li>
+<li>Graphics gallery window: every prop and animation on a labelled tile</li>
+<li>Wider repo palette; a spinner beside a repo title while it refreshes from GitHub</li>
+<li>Bounded room placement; share repositories individually, nothing shared by default</li>
+<li>Larger launch pad, storage yard and test deck</li>
+<li>Fix a render-thread spin when a queued message has no room to put its cone in</li>
+<li>One package per pull request; storage and deck from GitHub; proper rising; cone spots; lounge; archive cancels hauls</li>
+<li>Sharing indicator in the HUD</li>
+<li>Bonjour peers: share stations on the local network</li>
+<li>Rockets grow with cargo; faint rings on the pad when a release is due</li>
+<li>Storage keeps repo colours; rockets load only their own repo's boxes</li>
+<li>One cone per message; queued messages show as dim cones</li>
+<li>Uncommitted work shows as translucent boxes; minions stand beside the cone and bend from the feet</li>
+<li>CI status pulses red; stale rooms gather dust; haul thuds; welding, hammering, pushing and bending at the cone</li>
+<li>Rooms persist and lose power instead of vanishing; room-coloured prompt cones; three box sizes; storage bay with merge hauling and rocket loading; steadier settings layout</li>
+<li>Settings window: station rule, per-repo station and crew overrides, people names, general options</li>
+<li>Configurable station rule; updater only inside a bundle and never headless</li>
+<li>Work station by GitHub owner, configurable; works without Conductor</li>
+<li>README: homage to rymdkapsel</li>
+<li>Rename to rumkapsel</li>
+<li>Update notice in the station log; feature request and bug report menu items</li>
+<li>Sparkle updates, Developer ID signing and notarisation in the release script</li>
+<li>Float on top is a remembered preference, off by default; launch in the background</li>
+<li>Bolder condensed signage without tracking</li>
+<li>Signage tucked into room corners</li>
+<li>Uppercase signage in room accent colours; release script</li>
+<li>Clean tile borders, centred short labels, crew display names, stale merged rooms archived, corridor growth, activity-driven music layers</li>
+<li>A failed open-PR fetch is not an empty list</li>
+<li>Workspace rooms live while the Conductor folder exists; scan two weeks of transcripts</li>
+<li>Dark rooms keep their repo colour, just dimmed</li>
+<li>Simple room ladder: dark until a branch, lit after; boxes only for commits</li>
+<li>PR implies pushed; unlaid tiles are a dark subfloor</li>
+<li>Rooms fill in tile by tile with branch progress; no dashed outlines</li>
+<li>Crew counts as loaded only once every repo has answered</li>
+<li>Commits counted against develop; local branches are placeholders until pushed; minions carry new commit boxes in</li>
+<li>Shuttles arrive from random corners with a yaw drift; crate lifts smoothly onto the minion</li>
+<li>Crew offices only for PRs touched in the last two weeks</li>
+<li>Crew station goes live: open PRs as offices, pushes as boxes, only fresh events animate</li>
+<li>Crew from the repository events feed; bots bay; work-crew bridge; anchored slow shuttle landings with hex crates; merged branches leave</li>
+<li>Crew station: teammates' pull requests replayed over the day; archive animation; crew focus key</li>
+<li>Branchless sessions get a grey placeholder office; branch creation orders the real one</li>
+<li>Eight beds; overflow sleepers lie in the hallway</li>
+<li>Minions sleep as long as their office stands</li>
+<li>Star field, untested releases hold on the pad with tape and gantry, QA sessions inspect the rocket</li>
+<li>Strict doorway crossing; per-activity working animations</li>
+<li>Resolve worktrees to the main checkout; one release root per repo; refresh on focus</li>
+<li>Clicking a minion refreshes its repo on GitHub</li>
+<li>Cooler centred rocket, releases for all Conductor repos, no SpriteKit shape nodes</li>
+<li>Slow lift-off; staging rocket yields to production</li>
+<li>G refreshes GitHub on demand</li>
+<li>Launch pad with release rockets, more robust PR lookup, PR state change log</li>
+<li>Keep PR status colours distinct on boxes</li>
+<li>Room-tinted boxes with flat shading and floor shadows</li>
+<li>Doorways as open edges in the border, like the game</li>
+<li>Doorways, in-place office renames, sway/jump/pace animations, cluttered commit boxes</li>
+<li>Remove orphaned construction outlines</li>
+<li>Hangar at the outer south arm, offices delivered by ship</li>
+<li>Render-thread mutation, FSEvents scanning, lightning, commit boxes, label collisions</li>
+<li>rymdkapsel: Claude sessions as a space station</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27.1/rumkapsel-0.27.1.zip" length="3846085" type="application/octet-stream" sparkle:edSignature="/1mhMXp8lUNnKQyUnrCkRiVlbgO5uJvJCt6dt1fUnFbZ+OCLdPIvUaqwN+IECacD67aElubE5oKFiGUHNbEYCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27.1/rumkapsel202609141356-202609141347.delta" sparkle:deltaFrom="202609141347" length="187086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xdw/YfVerP49WlBg1DI1xvx8uNtx3tabDntbN2Jlp+1s8g7UIMlYRNEwtzXiaggVfg6+tjiisF/Q0T9a9VJ8AQ=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27.1/rumkapsel202609141356-202609131210.delta" sparkle:deltaFrom="202609131210" length="817474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="znkI7WNt9FdMzLIZDeDDl/KN2wN6sPDpcsPArtZjYW94IacaXsuBooVKCYOY5+FNBxuzQDo2ZABbvANXdJ/nDw=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27.1/rumkapsel202609141356-202609111056.delta" sparkle:deltaFrom="202609111056" length="1291414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V+F2OgWO9xl1w0yQjTSUbLQMNjYRMdhFXWfYwuVbNhYhwoZ6oBGCTuV7YQCxwBjNUpOmKONzDTiTKyticUu7Dw=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27.1/rumkapsel202609141356-202609102328.delta" sparkle:deltaFrom="202609102328" length="1323738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cfiMMyxPTg+eQTRYxg5BMmV1B3WehDOOG3NccuSZFz5snG2QSoXgDxPKpW/R5UmqEwvcQRja1zEZVzopznnKDA=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27.1/rumkapsel202609141356-202609101450.delta" sparkle:deltaFrom="202609101450" length="1679470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hHOmA7TzABqHmTVfdUKSFFg6esI1jQmTYDfQP1PlgfZiXzwiDHYYa8hz5X34iD7rB6ns4QbwWcMiL5Q3aXDXAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.27</title>
             <pubDate>Mon, 14 Sep 2026 13:49:38 +0200</pubDate>
             <sparkle:version>202609141347</sparkle:version>
@@ -201,7 +410,7 @@
 <li>rymdkapsel: Claude sessions as a space station</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27/rumkapsel-0.27.zip" length="3845458" type="application/octet-stream" sparkle:edSignature="nNzWbMsubicgBc3lRaGhM59Wy6xYZWkMT2fVLBwmMHseAhZOUjnJd0359KMSRFezB7uHRQ/MRAv6mq84Wvh6Cw=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27.1/rumkapsel-0.27.zip" length="3845458" type="application/octet-stream" sparkle:edSignature="nNzWbMsubicgBc3lRaGhM59Wy6xYZWkMT2fVLBwmMHseAhZOUjnJd0359KMSRFezB7uHRQ/MRAv6mq84Wvh6Cw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27/rumkapsel202609141347-202609131210.delta" sparkle:deltaFrom="202609131210" length="813922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oNuSu6Oe1l2ysAIXUBXgsHEJrBxL3ch3Iugh4UDMH8tv3CZsUgA8inwQjxxGCccaUjy8dWsk5IpC1CQH/qDsCw=="/>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27/rumkapsel202609141347-202609111056.delta" sparkle:deltaFrom="202609111056" length="1288494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rRhSzZ9X6Y9hryu+Y8y0c2ePGmbE41AWeU25MWJaEcKgc8VJlgOJDOI0uz5NSQIlXhx0y3OyT990WTUISirDBQ=="/>
@@ -398,7 +607,7 @@
 <li>rymdkapsel: Claude sessions as a space station</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27/rumkapsel-0.26.zip" length="3698182" type="application/octet-stream" sparkle:edSignature="sAZJM1iViQ2hFYJhajC2Nd/4Uq4O5jEYFFZtqE4xptYs37OdEgpBttPIJtNuHhwcIuNzjoT5ZchS3BvKDnypAg=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27.1/rumkapsel-0.26.zip" length="3698182" type="application/octet-stream" sparkle:edSignature="sAZJM1iViQ2hFYJhajC2Nd/4Uq4O5jEYFFZtqE4xptYs37OdEgpBttPIJtNuHhwcIuNzjoT5ZchS3BvKDnypAg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.26/rumkapsel202609131210-202609111056.delta" sparkle:deltaFrom="202609111056" length="1091806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2RsV+ZVZLYf1jTqZdkuwTlBhW1FVy3YV+Y07CVEKInBTHNLh7k1sy8S1ZvdXbYXeyMvnAr/bjKjolimA6PPEDw=="/>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.26/rumkapsel202609131210-202609102328.delta" sparkle:deltaFrom="202609102328" length="1135666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gVQtQULb0bmJEzAO7kpHjC9nsm8JGuipG6c98BwZ2zwHdOaCQiFWEvPmcXJubnWh4aX6B1qDpos/7ifkhmyRCA=="/>
@@ -408,36 +617,13 @@
             </sparkle:deltas>
         </item>
         <item>
-            <title>0.25</title>
-            <pubDate>Fri, 11 Sep 2026 10:58:51 +0200</pubDate>
-            <sparkle:version>202609111056</sparkle:version>
-            <sparkle:shortVersionString>0.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>One cone per session: the message being worked, queued ones in a row behind it, the old one shrinks away; repository names kept with the board so the deck is drawn right from launch; the world's diff runs before the redraw so a cleared crate is carried from where it stood</li>
-<li>A pallet errand is a job nothing calls the operator away from; whoever adopts one stands beside it; cones owed to an office land with its reveal; scenarios can forbid lines</li>
-<li>Shuttle flies on the station clock; the simulator's board catch-up waits on it too; a commit is stowed as a cube by command; the first release answer is quiet</li>
-<li>A pull request newly open on my checkout is announced from the poll's state change, so the office's worker packs it; an approach walks to the stand cell once and shuffles from there</li>
-<li>Carries approach on foot and never from on top of the slot; a pull request is packed by the office's worker; a pallet with no operator gets one; the pusher walks round the pallet</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27/rumkapsel-0.25.zip" length="3429766" type="application/octet-stream" sparkle:edSignature="NmwAkv+0dGLjGTiYyU5ouzZaWbPbJhUTry/AwZVunKL7A8uApBu4ZVykBSCD72Oyi/c+cfIPoKoKRuWND6qEBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.25/rumkapsel202609111056-202609102328.delta" sparkle:deltaFrom="202609102328" length="487706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xOSBdeiyf9ShpiiuVGaOkpy8fBKE4OwGp53TggA/hOAt27kBgAyVdnKWpKuevBr1OQRXnUVAi/JsgFOoueMkBA=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.25/rumkapsel202609111056-202609101450.delta" sparkle:deltaFrom="202609101450" length="1254774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QwDv5O3T5+b4dvjF0PyTQe/8XZtBOCSnnz65aeGcSngTxRqXznYmUT32uElq3zPgQiq0/JEY/spadVuLrSN8CA=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.25/rumkapsel202609111056-202609101446.delta" sparkle:deltaFrom="202609101446" length="1255830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JRFv6TcPTtMcrdZoSoa/JzdIMbKAUZJTyj25zItondqLZar8FOG9CHe2RivqUI8bJbJlJ0UkhatdW1uWiOFrCQ=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.25/rumkapsel202609111056-202609101345.delta" sparkle:deltaFrom="202609101345" length="1273514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Uo/CFygNrSucuwBIFzVie00igs1SJoRjsaAvJEkti5Vkttw7MYMZPIlXMIgSwScVwF2+47OYB0hrdNVcR3zEBg=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.25/rumkapsel202609111056-202609101322.delta" sparkle:deltaFrom="202609101322" length="1271930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="47C7T8QHqEzMneQysnhP6iIE8y/5BFOUPhX/KVfyilEbXEe5XeVzh1T8vG8luV06SiWrAlMC83RxSB9a6oioBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
             <title>0.1</title>
             <pubDate>Wed, 09 Sep 2026 10:06:55 +0200</pubDate>
             <sparkle:version>202609091005</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27/rumkapsel-0.1.zip" length="1559587" type="application/octet-stream" sparkle:edSignature="jVWD5NxYnrX8j+dbMRK1w03cKoPEfe9iynDwcbCqM9Kwwtg3yTnKsrid2dfUbjpPR/22FMPnmaUilRnBMw3wAg=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.27.1/rumkapsel-0.1.zip" length="1559587" type="application/octet-stream" sparkle:edSignature="jVWD5NxYnrX8j+dbMRK1w03cKoPEfe9iynDwcbCqM9Kwwtg3yTnKsrid2dfUbjpPR/22FMPnmaUilRnBMw3wAg=="/>
         </item>
     </channel>
 </rss>
