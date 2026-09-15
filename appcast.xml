@@ -3,6 +3,27 @@
     <channel>
         <title>rumkapsel</title>
         <item>
+            <title>0.35</title>
+            <pubDate>Tue, 15 Sep 2026 13:28:12 +0200</pubDate>
+            <sparkle:version>202609151326</sparkle:version>
+            <sparkle:shortVersionString>0.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>The kit's earth is an orange that reads as a prop from across the lawn, a rock passing for the bath's towel: sand on the shore, stone on the rocks</li>
+<li>Two snapshots of the demo, one a theme, for the pull request and the README to point at</li>
+<li>A second look for the station, picked under Settings › General › Look: Kenney Space Center, the same floor plan on the ground as the Cape has it. Astronauts for minions, hung from the body's middle so every pose carries them; the kit's platforms on every tile, kerbed only where the floor meets the grass; arches on the airlock and the decon hatch; a comms tower with a turning dish for the monolith; kit rockets sized as before with the hatch and flame by name, speeders for the shuttles, a desk in every office, fuel by the pad and a rover in the bay. A lawn to every side and the sea past the yard, a bank of the Nature Kit's tiles along the shore with palms up it and scrub on the grass, the greens retinted from the kit's turquoise. On the ground the pad stands five tiles out from the deck on a two-lane causeway toward the water, and the view starts turned about so the pad faces right. Classic is untouched; the theme is a config field and a switch rebuilds the fleet. The models used (CC0) live in Resources/Kenney and build.sh copies them into the bundle</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.35/rumkapsel-0.35.zip" length="4571951" type="application/octet-stream" sparkle:edSignature="0he2lmWhVJZYvm1/vyd73Ai3STaZKcD9GPPOiRqOCSTt6FEPA+Ga53dt7wZPyxhfbS/ZcEpKsIosR9AfRguwDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.35/rumkapsel202609151326-202609151224.delta" sparkle:deltaFrom="202609151224" length="753238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3Uh6Hbi3ibgSWmpRP79Y9RiLx45P+yqkHGPMY3NNDSjJX0k56gSOvsjQw0++FYlSORcauthQSwIF4ACbnRBUAg=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.35/rumkapsel202609151326-202609151159.delta" sparkle:deltaFrom="202609151159" length="834602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kJPE+DKauCJk8kH4eB9xCL51njEsP+Uuf2Mj/5AS1gXT8kDZ9I1bRl/VHEbK6i63KtKX8fRrERzB5jMNg2tWAg=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.35/rumkapsel202609151326-202609150822.delta" sparkle:deltaFrom="202609150822" length="1033658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vqYk/t6XDGH/wHx5wOX4z0qxQbkIXkrS9iJaoDqScsraY4hl/VnRw1YXkd2BBWZ3BkbTuIHTqdAmRu8C0+6KBA=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.35/rumkapsel202609151326-202609142156.delta" sparkle:deltaFrom="202609142156" length="2096958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="em28uuq+icPbjBROATWEcafD2NswvdpkbcEZ62RZw/J5mdqdKgIACg/ivMYF+Z15X1mzIMT1EuDcWtUONm8JBg=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.35/rumkapsel202609151326-202609141656.delta" sparkle:deltaFrom="202609141656" length="2118222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wb0YxMVVQxxbIEz2Ny6WlyUQ23QEMSMvqV4xxWqGmQj7ehvHyXuPmmTHB+gYywXU2hX8J7nD2pf7YsO/YFpZDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.34</title>
             <pubDate>Tue, 15 Sep 2026 12:27:18 +0200</pubDate>
             <sparkle:version>202609151224</sparkle:version>
@@ -14,7 +35,7 @@
 <li>A desk toy's diet: the audio engine is stopped outright while music is off, where it rendered silence forty times a second; the frame rate is 30 when watched, 60 only while a gesture drives the camera, and 8 while the window is covered or the app is in the background; antialiasing is 2X, which reads the same as 4X on flat shading and straight edges. The debug build went from 62% of a core to about 12%</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel-0.34.zip" length="4332845" type="application/octet-stream" sparkle:edSignature="QZTJDsiHRE3BA2IXrL5yBRNx/Cv193gpIT8P3ezGKw9vcms7g6Avp3oIXemS+TG97WZvzK8yjOOjIC6RQtT3DA=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.35/rumkapsel-0.34.zip" length="4332845" type="application/octet-stream" sparkle:edSignature="QZTJDsiHRE3BA2IXrL5yBRNx/Cv193gpIT8P3ezGKw9vcms7g6Avp3oIXemS+TG97WZvzK8yjOOjIC6RQtT3DA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel202609151224-202609151159.delta" sparkle:deltaFrom="202609151159" length="516266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TeyF8qXQSHCPIyvJcnqzC5ZwICaqPVySaknRowkZ1v2z8kjn6q10zyL0dHHJbCY7AKeNJEK4DHh/bxU/X/e2Dw=="/>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel202609151224-202609150822.delta" sparkle:deltaFrom="202609150822" length="792334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="25yLnuBu+DMvW/9nmt9qxcwwZZ60UVPUcPXa03ZalPVJzBqY2dvfAJSSUe+KOPgNpqAUjlPiahqXPCsVVc7XBQ=="/>
@@ -41,7 +62,7 @@
 <li>An office's shape follows its key through the stable hash, so a room looks the same on every launch and on every machine; it came from Swift's own hashValue, which is seeded afresh per process, so the same office drew a different shape each time it was placed anew. The tool rota's seed goes the same way. --layout-tests holds the floor plan to being a pure function of shared facts: two stations given the same rooms in the same order lay them out cell for cell the same, the same key takes the same cells twice, and every room has a door on the corridor and keeps off the yard. LAYOUT.md is the plan for what comes next: the wandering one-wide hallway with alleys, the 3x3 plaza round the monolith, rooms of three to seven tiles placed along the hallway, the game's palette kept beside ours, a minion scale behind a setting, and the peer tie-break that makes a shared station converge; with the order of work and the decisions taken</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel-0.33.zip" length="4319364" type="application/octet-stream" sparkle:edSignature="1LemGkYHQexwXNrR2bbyrwp2Y4BcMgIAhRxMJJx643wZlhxgWLtRK59e5im4Ir1ECIndS0rrpvp1X9KCSRNjCw=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.35/rumkapsel-0.33.zip" length="4319364" type="application/octet-stream" sparkle:edSignature="1LemGkYHQexwXNrR2bbyrwp2Y4BcMgIAhRxMJJx643wZlhxgWLtRK59e5im4Ir1ECIndS0rrpvp1X9KCSRNjCw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.33/rumkapsel202609151159-202609150822.delta" sparkle:deltaFrom="202609150822" length="746014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0ZEg50U/+PguifBbSIRx3wcz6+aKAljHhAHEho5RgM+K1+9Ew68r9Mt/qX6toonL8scMnlODMJN/ZCs9lzB5Bg=="/>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.33/rumkapsel202609151159-202609142156.delta" sparkle:deltaFrom="202609142156" length="1899886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0RA5UiPIwSo6bq0iUmsHUnX0IiORZ8uCYbRqa44xS9ltg/LM1JELMZU4UpUnkG3nV4t3TFtXruWv2+lsQV1GBA=="/>
@@ -51,36 +72,13 @@
             </sparkle:deltas>
         </item>
         <item>
-            <title>0.32</title>
-            <pubDate>Tue, 15 Sep 2026 08:22:50 +0200</pubDate>
-            <sparkle:version>202609150822</sparkle:version>
-            <sparkle:shortVersionString>0.32</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>build.sh looks for the release product in .build/out, where the native build system lays out a universal build; the old .build/apple path was left over from Xcode's own layout and made every release say the build failed</li>
-<li>The camera can go with one minion: a click follows it, keeping it in the middle while the zoom and the turn stay yours, with its order written along the bottom in its own words; Esc, a pan or a click on the floor lets go, and a double-click now does what a click did, asking GitHub again. A shower ends at the towel rail: the towel comes off the rail onto the shoulders for a few seconds, the water stops, and it goes back; the rail itself moved to the far end of the wall so it no longer reads as the nozzle from the camera's angle. The simulator's clock is two rows, pause and step as icons and the speeds under them, and the quarter and half buttons no longer light up with 1x. Headless runs ignore a cursor left over a minion, which is what froze a sitter in front of the bowl on film. For filming: --look frames a room, --follow keeps the camera on a minion, --frames and --every take a strip of pictures. AUDIT.md is re-checked against the simulation split, cited by function rather than line, with 18 rows moved upward and the open items kept; STATION.md's shower length matches the code. --sim-tests gains the bath's reservation, the sit on arrival and the drying beat</li>
-<li>build.sh removes last time's binary before compiling, so a failed compile says so instead of bundling the stale one</li>
-<li>The repo folder is ~/dev/rumkapsel now, and the demo station's entry for it says so too</li>
-<li>The long idle run is gone, and the rule it kept tripping: what it watched, that visits happen in a mix and last their whole time, the idle tests and the sim tests check in seconds, and two minions standing on one spot is no longer a rule of the station. The little disorder in storage and on an office's boxes is seeded from a hash that is the same in every run, where Swift's own hashValue was seeded afresh per process. The docs say where things stand: TESTING.md opens with the gate as one block to run, ARCHITECTURE.md's debts are the debts there are, and README.md says how to test and how to release, and that notarisation needs credentials stored once. The builds name the native build system: Xcode 26.1's default lays the products out where the debug binary cannot find Sparkle beside it</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel-0.32.zip" length="4195667" type="application/octet-stream" sparkle:edSignature="W4mGPoyM3GhKds4cvKgzgFvpDn31vaEXTfIxnCf3uBqkIGqPzMlSI1UkRykOvGuGAGSa/l4S0NH5cn5EW+9VCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.32/rumkapsel202609150822-202609142156.delta" sparkle:deltaFrom="202609142156" length="1787174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dCt8AkYrW+ZQIxCYQVowSPYyaLNrMJm5WlajpNcAux3a8F9eOzy0Cd/NsMLhaUDTLEZyxA7NhPOgAXbkibjWCA=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.32/rumkapsel202609150822-202609141656.delta" sparkle:deltaFrom="202609141656" length="1821570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9YmdrXMeu0po91/czpNVHg6BEe9PWUDpiyyUKL4OsmMQJLXQliWp4Me1gWMEkW+hpYj9YDg/EJ4m6T6OvpJdDQ=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.32/rumkapsel202609150822-202609141511.delta" sparkle:deltaFrom="202609141511" length="1847846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GHOrWwEQGmIrErBTUcdmxkfAzPDjK+4o1qqMIhbG/o0DNVxlfP/w0FRJ9UhHhTuFVjzHQCjsr4Eo7WTVGCRvCw=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.32/rumkapsel202609150822-202609141356.delta" sparkle:deltaFrom="202609141356" length="1878718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zpOSjDajGo5OoqUsBmcjNGA/rEmTVABUYnBC50iWJCKdCpyAbiUdsndocEXR4rHz7IBcDoDXFoxyAeWKJJHPAQ=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.32/rumkapsel202609150822-202609141347.delta" sparkle:deltaFrom="202609141347" length="1877594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0jTsJAt9QEPqkps2qa21b2u7hjEOnlW1fCoPrq2mx+ygHgt5HRYYK6XQeF3i5wTYdklL4vCy7vFR9bzPXWeyCg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
             <title>0.1</title>
             <pubDate>Wed, 09 Sep 2026 10:06:55 +0200</pubDate>
             <sparkle:version>202609091005</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel-0.1.zip" length="1559587" type="application/octet-stream" sparkle:edSignature="jVWD5NxYnrX8j+dbMRK1w03cKoPEfe9iynDwcbCqM9Kwwtg3yTnKsrid2dfUbjpPR/22FMPnmaUilRnBMw3wAg=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.35/rumkapsel-0.1.zip" length="1559587" type="application/octet-stream" sparkle:edSignature="jVWD5NxYnrX8j+dbMRK1w03cKoPEfe9iynDwcbCqM9Kwwtg3yTnKsrid2dfUbjpPR/22FMPnmaUilRnBMw3wAg=="/>
         </item>
     </channel>
 </rss>
