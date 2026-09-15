@@ -3,6 +3,27 @@
     <channel>
         <title>rumkapsel</title>
         <item>
+            <title>0.34</title>
+            <pubDate>Tue, 15 Sep 2026 12:27:18 +0200</pubDate>
+            <sparkle:version>202609151224</sparkle:version>
+            <sparkle:shortVersionString>0.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>The frame rate stays at 30 whenever the window can be seen, focused or not: a desk toy sits beside the work, and dropping to 8 the moment it lost focus made it lag in the corner of the eye. Only a covered or hidden window goes to 8</li>
+<li>The plan draws its dead-end alleys off the long arms again, every few runs, two or three tiles, on the side the arm last jogged away from, reserved like the arms and dug whole when a room wants the frontage; the passages between arms stay demand-dug. Judged on the forty and eighty room fills (RK_FILL=1 prints both, with mean walk, loops and footprint), that gives the crinkle back and a tighter footprint at the same mean walk. Charging the arms more past six steps and doubling the passage bonus changed nothing, so those knobs stay at their defaults. RK_FPS prints the frame rate the view is actually running at, which is how the low rate while hidden was checked: ten frames a second. A snapshot says how many nodes with geometry the scene holds</li>
+<li>A desk toy's diet: the audio engine is stopped outright while music is off, where it rendered silence forty times a second; the frame rate is 30 when watched, 60 only while a gesture drives the camera, and 8 while the window is covered or the app is in the background; antialiasing is 2X, which reads the same as 4X on flat shading and straight edges. The debug build went from 62% of a core to about 12%</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel-0.34.zip" length="4332845" type="application/octet-stream" sparkle:edSignature="QZTJDsiHRE3BA2IXrL5yBRNx/Cv193gpIT8P3ezGKw9vcms7g6Avp3oIXemS+TG97WZvzK8yjOOjIC6RQtT3DA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel202609151224-202609151159.delta" sparkle:deltaFrom="202609151159" length="516266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TeyF8qXQSHCPIyvJcnqzC5ZwICaqPVySaknRowkZ1v2z8kjn6q10zyL0dHHJbCY7AKeNJEK4DHh/bxU/X/e2Dw=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel202609151224-202609150822.delta" sparkle:deltaFrom="202609150822" length="792334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="25yLnuBu+DMvW/9nmt9qxcwwZZ60UVPUcPXa03ZalPVJzBqY2dvfAJSSUe+KOPgNpqAUjlPiahqXPCsVVc7XBQ=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel202609151224-202609142156.delta" sparkle:deltaFrom="202609142156" length="1918626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eENcBS/78poTuMoblt9UqMe+JIi8anDXBPqhvBD/gONMtqg2IbzTj7Rpi8gjAU2G2r6R4fSI8fVQA1x5kdk8Dg=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel202609151224-202609141656.delta" sparkle:deltaFrom="202609141656" length="1946922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nj5pFZhrYBAaFZnF1jwMHUY/na8obMt+7o+5xblY1n5q8sHa/InEDr2qIiUndLMePFSrlE2iji3YcGDYvFLeAQ=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel202609151224-202609141511.delta" sparkle:deltaFrom="202609141511" length="1977662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HHIE0qPl/t5a5ecEQ7uLJRR4A4cY7y6SubgXJuvf3O0OvRePVP0JXJNt0Uzol5yUCwGDTk+H0U+3QixkrkSWBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.33</title>
             <pubDate>Tue, 15 Sep 2026 12:01:29 +0200</pubDate>
             <sparkle:version>202609151159</sparkle:version>
@@ -20,7 +41,7 @@
 <li>An office's shape follows its key through the stable hash, so a room looks the same on every launch and on every machine; it came from Swift's own hashValue, which is seeded afresh per process, so the same office drew a different shape each time it was placed anew. The tool rota's seed goes the same way. --layout-tests holds the floor plan to being a pure function of shared facts: two stations given the same rooms in the same order lay them out cell for cell the same, the same key takes the same cells twice, and every room has a door on the corridor and keeps off the yard. LAYOUT.md is the plan for what comes next: the wandering one-wide hallway with alleys, the 3x3 plaza round the monolith, rooms of three to seven tiles placed along the hallway, the game's palette kept beside ours, a minion scale behind a setting, and the peer tie-break that makes a shared station converge; with the order of work and the decisions taken</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.33/rumkapsel-0.33.zip" length="4319364" type="application/octet-stream" sparkle:edSignature="1LemGkYHQexwXNrR2bbyrwp2Y4BcMgIAhRxMJJx643wZlhxgWLtRK59e5im4Ir1ECIndS0rrpvp1X9KCSRNjCw=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel-0.33.zip" length="4319364" type="application/octet-stream" sparkle:edSignature="1LemGkYHQexwXNrR2bbyrwp2Y4BcMgIAhRxMJJx643wZlhxgWLtRK59e5im4Ir1ECIndS0rrpvp1X9KCSRNjCw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.33/rumkapsel202609151159-202609150822.delta" sparkle:deltaFrom="202609150822" length="746014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0ZEg50U/+PguifBbSIRx3wcz6+aKAljHhAHEho5RgM+K1+9Ew68r9Mt/qX6toonL8scMnlODMJN/ZCs9lzB5Bg=="/>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.33/rumkapsel202609151159-202609142156.delta" sparkle:deltaFrom="202609142156" length="1899886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0RA5UiPIwSo6bq0iUmsHUnX0IiORZ8uCYbRqa44xS9ltg/LM1JELMZU4UpUnkG3nV4t3TFtXruWv2+lsQV1GBA=="/>
@@ -43,7 +64,7 @@
 <li>The long idle run is gone, and the rule it kept tripping: what it watched, that visits happen in a mix and last their whole time, the idle tests and the sim tests check in seconds, and two minions standing on one spot is no longer a rule of the station. The little disorder in storage and on an office's boxes is seeded from a hash that is the same in every run, where Swift's own hashValue was seeded afresh per process. The docs say where things stand: TESTING.md opens with the gate as one block to run, ARCHITECTURE.md's debts are the debts there are, and README.md says how to test and how to release, and that notarisation needs credentials stored once. The builds name the native build system: Xcode 26.1's default lays the products out where the debug binary cannot find Sparkle beside it</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.33/rumkapsel-0.32.zip" length="4195667" type="application/octet-stream" sparkle:edSignature="W4mGPoyM3GhKds4cvKgzgFvpDn31vaEXTfIxnCf3uBqkIGqPzMlSI1UkRykOvGuGAGSa/l4S0NH5cn5EW+9VCA=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel-0.32.zip" length="4195667" type="application/octet-stream" sparkle:edSignature="W4mGPoyM3GhKds4cvKgzgFvpDn31vaEXTfIxnCf3uBqkIGqPzMlSI1UkRykOvGuGAGSa/l4S0NH5cn5EW+9VCA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.32/rumkapsel202609150822-202609142156.delta" sparkle:deltaFrom="202609142156" length="1787174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dCt8AkYrW+ZQIxCYQVowSPYyaLNrMJm5WlajpNcAux3a8F9eOzy0Cd/NsMLhaUDTLEZyxA7NhPOgAXbkibjWCA=="/>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.32/rumkapsel202609150822-202609141656.delta" sparkle:deltaFrom="202609141656" length="1821570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9YmdrXMeu0po91/czpNVHg6BEe9PWUDpiyyUKL4OsmMQJLXQliWp4Me1gWMEkW+hpYj9YDg/EJ4m6T6OvpJdDQ=="/>
@@ -53,260 +74,13 @@
             </sparkle:deltas>
         </item>
         <item>
-            <title>0.31</title>
-            <pubDate>Mon, 14 Sep 2026 23:47:35 +0200</pubDate>
-            <sparkle:version>202609142346</sparkle:version>
-            <sparkle:shortVersionString>0.31</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>TESTING.md and ARCHITECTURE.md say where the split stands: the four slices done, what was measured, and Change 4, the three things that still make a scenario need a StationController, the event glue, the obstacles read off props and the stows ordered from the redraw</li>
-<li>Two costs off the gate: a room's placement works out each anchor's distance to its neighbours once rather than once per comparison in the sort, and the furniture's obstacle cells are read from the static root once per redraw rather than from every prop's box every half second. The gate goes from 14 s to 12 s</li>
-<li>The station's fixed cells, core, airlock, bay, yard blocks, decon and corridor, and the set of cells no room may take, are built once per floor plan and read from there: they were fresh arrays on every step of every route and every cell of every placement. The gate goes from 17 s to 14 s</li>
-<li>The station apart from the picture, fourth slice: the shuttles and the rockets are the simulation's (Ships.swift). A Flight is one shuttle's command, approach to leave, its position a number on the station clock; a RocketJob is one repository's rocket, its stages, the carries it orders into the hold and the crates it waits for. The scene keeps a node per flight and per rocket (Actors.swift) and places it from those facts; the flame, the steam, the hold's tape, the hatch and a rocket going are cues, and so is a new office's crate on its bay slot and its drop. The last closures the scene lent the simulation are gone, and the world's rocketBusy is answered by the simulation. The rocket's hull obstacle is read off the simulation's pad slot rather than the node. The gate is unchanged, 16 of 16</li>
-<li>The station apart from the picture, third slice: the pallet errand is the simulation's (Pallet.swift). A PalletJob holds where the pallet hovers, its legs, what is still to lift and what is aboard, and the crate in the air as numbers on the station clock; the five errand commands, the push, the loading and the unloading step there, and station truth is written there. The scene's Pallets.swift draws the slab, the shadow, the light, the pusher's lean and the flying crate from those facts, keeping the nodes by crate key; a crate leaving the ground and coming down are cues. The pallet's geometry is numbers the props read. The wedged-carrier test compares against the landing the body recorded rather than a facing it has since turned from. --sim-tests gains the whole pallet errand: ordered at the console, loaded, pushed across on the merge, unloaded on the deck, the ledger agreeing. The gate is unchanged, 16 of 16</li>
-<li>A small step back with the quarter turn, the hesitation, which the slide out then takes over</li>
-<li>No wriggle in the pass: turn, slide, turn back, on</li>
-<li>A tighter pass: it begins a tile out, the lean is a shoulder's half, so two side-on figures clear each other within one tile</li>
-<li>The sim's slow speeds are ¼x and ½x, short enough for the row</li>
-<li>A pass is held from first sight until the other is clearly behind, so it never flickers when the two are abreast; it starts a tile and a half out and slows to a third, so the turn reads before the lean. The sim gets 0.25x and 0.5x for watching it</li>
-<li>The pass turn is a quarter turn side-on toward the walker's left, where the other goes by, so the shoulders lie along the line before the lean; facing the other head-on was no turn at all</li>
-<li>A walk that ends ends straight: on arrival the lean is dropped and the figure faces the way it came, whatever the pass was doing; only a body with a path ever turns for a pass</li>
-<li>The pass is driven by the gap, no clock: from a tile off the walker slows and turns to face the other; from half a tile it leans a shoulder to its own right and wriggles past; behind, it straightens and strides on. Drawing and pace only; the body stays on its line</li>
-<li>An object just through decon's hatch is drawn at hatch height and floats down onto its pile, so the yard's low gravity shows on every arrival</li>
-<li>Low gravity in the yard: a crate with nothing under it takes two seconds to come down, easing in; decon piles by repository in one column each</li>
-<li>Decon stacks by repository like storage, no vapour at the hatch, only the light; a clear pulls the object straight out and whatever was on top drops together, since nobody is careful with unscreened things; the invariants allow that one yard its drops</li>
-<li>Decon objects open their pull request on click like any crate; smaller and darker in decon, tinted by the repository they came for, and grown to a crate's size over a beat once cleared into storage</li>
-<li>Decon at the back of storage, on its south side, not west of it: the hatch in the back wall, the objects along it, the row by storage the aisle, and two doorways through storage's back wall</li>
-<li>Decon: a bot's pull request is an object of unknown origin in a chamber on storage's outer wall, not a room with a body in it. The bots' room and its dependabot minion, who never had anything to do and read "heading for bots" forever, are gone. Objects come in through decon's hatch, which flashes and puffs, never by shuttle or the airlock; a merged one is cleared and carried into storage by whoever is free, and from there it is a crate like any other, grey wherever it goes, tested from the start, and counted in the rocket's cargo, so merged bumps are no longer skipped in the cargo scan; a closed one is ejected. The ledger gets a decon yard and an alien flag on the row, read as absent from older saves; decon rows are the hatch's business until they land in storage. Simulator buttons for a bot opening, merging and closing a pull request, two scenarios, and the rule in STATION.md</li>
-<li>A closed issue never makes an office, whatever column the board left it in: the board query carries the issue's state, both on the full read and the delta, and the development column is skipped for closed ones. Seen tonight: api-node-nest#5231, closed unmerged at noon and still In Development, arrived as a delivery in the evening because its branch on origin counted as a sign of work</li>
-<li>The station apart from the picture, second slice: the carries, office deliveries, stows and packs are the simulation's (Carries.swift), and so is the body reconciler (Bodies.swift). A body's load is a fact on it, a crate by number or an office's crate by key, with a landing that says where it left the arms; the scene mirrors that each frame, lifting the node when the load appears, sending it down its arc when the set-down phase begins, and putting it where the landing says when the load goes. A landing, a reveal, a stow, a pack and a redraw come back as cues; a ship still over its slot and the shuttle a new office is fetched by are lent by the scene. A merged office's package is carried from where it actually stands, not the office door. --sim-tests gains a carry from storage to the deck with the ledger in step, and a wedged carrier that gives up and has its carry queued again from where the crate lies. The gate is unchanged, 14 of 14</li>
-<li>The pass is drawing only: the body walks its line exactly and never stops for anybody; someone close ahead makes the figure turn to face them and lean a shoulder to its own right for the length of the pass, eased in and out, and nothing in the model moves sideways. --walk-tests: two head-on lean to opposite sides and both arrive exactly</li>
-<li>Every sim press says now: Bath, Chore and Workout take a busy worker when nobody is resting, dropping the work in hand, as Meet and Everyone to lounge already did; only Wedge still needs a carrier</li>
-<li>The station apart from the picture, first slice: Simulation owns the clock, the bodies, the orders, the walks, the rest and the idle life, no SceneKit in it; the scene runs the quiet commands through its three steps per body, stepWalk, stepThere and stepRest, with its own carries, stows, deliveries and pallet errands in between, and draws the pose the body says it holds, lying, seated, on the bench, blurred in the bath. What the scene shows once, a flush, a fidget, a hop, a teammate's cones going, comes back as a cue; the ground a ship owns and a steaming rocket are lent by the scene as closures until the shuttles and rockets move in. Cargo is a value on the simulation, its node kept by the scene by command id. Where the fixtures stand is the station's. --sim-tests steps a bare Simulation&lt;Body> through a send, a bowl visit that lasts its minute from arrival with the sit, the stand and the flush, a gym turn, a rest refused under a visit, the idle clock, and the airlock. The gate is unchanged: 14 of 14 in 15 s. The idle soak fails on "two minions never share a spot" both before and after this change</li>
-<li>Meet in the hall takes any two minions, whatever they were doing, as a sim press should</li>
-<li>Fewer clocks over one failure: the carry's patience and the late set-down are gone (a crate is never moved by a clock; a stalled carry is given up by the reconciler and requeued), and so are the rocket's since and its ninety-second moan. A pass holds its bearing, so the spot beside the waypoint is one fixed spot and is reached exactly, with no early pop; passing, the body faces the one it passes and slides by sideways. The simulator's Meet in the hall sets two free minions at the ends of the hall facing each other and orders each straight through the other</li>
-<li>The WC is a WC: a pedestal, a seat at sitting height with the hole marked, the tank on its back with a button, square to the walls where the four-sided bowl read as a diamond; the sitter sits square on it facing out from the tank, and its shadow goes onto the seat with it instead of staying on the spot. The shower's arm comes off a pole up the corner wall with a tap at waist height, and a towel hangs over a rail on the other wall</li>
-<li>The bubble's picks work by hand: the hover holds over a column from the minion's feet up to the plate, so the mouse can leave the body for the icons without the bubble going; a pick closes the bubble and lets the hover go, so the minion sets off at once; sent to bed from the bubble, a minion lies down once on its bunk whatever its session is up to, a nap flag on the body cleared by the next send elsewhere</li>
-<li>Walkers never stop for anybody: someone in the way is passed a third of a tile to the walker's own right, and within a sidestep of the waypoint the pass counts as done, since the bearing to a near waypoint swings and the spot beside it can never be chased to the point. The whole step is Walk.step, SceneKit-free; --walk-tests has two on one spot heading the same way, opposite ways, and a follower, all arriving. The idle soak passes three times running</li>
-<li>A toilet visit is a sit, not a stand: the minion turns its back to the bowl, its body bends into an L of torso, thighs and shins on the seat with the tank behind, shuffles on the seat now and then, straightens and stands up as the visit's last second runs out, and the bowl flickers water-blue behind it. The legs are boxes every figure carries unseen until it sits; the pixel patch rides along, lower, over the lap. The bowl's spot is one helper the fixture and the sitter both use. All on the order's own clock, no timers of its own</li>
-<li>A carrier that gives up sets the crate down behind it, on the way it came, never in the way ahead; the wedged-carrier scenario is back and checks what the rule promises, that the retry goes to somebody else, not that the crate lands past a body frozen in a storage row</li>
-<li>A lounger's next thing may be picked from its bubble: a row of five pixel glyphs under the words, a barbell, a bed, a book, a nozzle and a bowl, each in its own flat colour, drawn in code. A click gives the order through the calls the idle clock makes, takeTurnInGym, visitBath with showering set, or send to the lounge or the dorm, and hands the minion a fresh idle clock. The row is dimmed and clicks do nothing while a job is in hand, one waits, a crate is carried, or the minion is at work or mid-visit. The overlay gets first say on hovers and clicks, so the bubble stays while the mouse is over it; the hit rects are kept under a lock for the main thread. STATION.md: one line under the lounge rules</li>
-<li>Headless runs never take the keyboard: the model-only tests and a snapshot run as a background app like the scenario suite already did</li>
-<li>One rule for walkers meeting: drift a third of a tile to the side away from the other, pass, drift back onto the line, the other doing the same; hold still where there is no room, an arm's length off someone standing on the walk's last spot. Gone: right of way, the wait-then-replan, the third-of-a-tile yield, the idle bystander's step-aside, the doorway lanes and their claims, the replan throttle for meetings (the floor-change one stays). Walk.swift is SceneKit-free and --walk-tests runs it on made-up bodies; the wedged-carrier scenario is dropped, since it only passed by letting a walker slide onto an occupied spot. STATION.md's walking rules say the one rule</li>
-<li>The scenario suite is a smoke set again: ten scenarios that pinned incidents fixed days ago are gone (two source-lag cases the ledger tests cover, five walking and carrying incidents, three visit-length checks the soak still makes), fourteen flows remain and the gate runs in fifteen seconds. Visits last minutes, not seconds: a shower two to three, the toilet one, a gym turn four to eight, a look round two to four</li>
-<li>A visit carries its length on the order, so a bath or a gym turn that waited its turn in pending still lasts once there: the sub-second shower was begin() zeroing a length set after start(). Bathers and exercisers face their fixture, not the camera; the bench presser lies along the bench; nobody hops in the shower; the pixel pants are wider and coarser; the nozzle sits clear of a head with the drops under it. Body: the simulation's side of a minion as a SceneKit-free base class, Minion the figure on it</li>
-<li>A headless scenario run skips what only the eye reads: the view's tick (camera, labels, HUD) and the airlock pane's opening, which decide nothing and were a third of every tick; couch and bed spots are built once per floor plan, not once per resting minion per tick. The look-round scenario goes from 6.8 s to 1.7 s</li>
-<li>The idle pick and the doorway lanes as rules apart from the picture: IdleClock, IdlePick and RoamSpots in Idle.swift, DoorLanes and LaneClaims in Lanes.swift, no SceneKit in either; the scene calls them; --idle-tests and --lane-tests run them against a hand-stepped clock and made-up bodies</li>
-<li>Idle life that lasts: a visit's time starts on arrival; one idle clock per lounger picks a roam, a gym turn, the bath or the couch; doorways are one-lane sections with claims on the station clock; walkers who block each other resolve by right of way; re-planning throttled to once a second; scenario waits in station seconds with the idle soak off the default gate; model-only idle and lane tests; a fast local build mode; TESTING.md with the plan for model-only tests and the model-from-picture split</li>
-<li>Truth-state work in progress as found on the branch: doorway lanes with claims that lapse, one idle clock per lounger with a weighted pick, visits timed from arrival, gym and roam scenarios, and TESTING.md, the spec for what follows</li>
-<li>A repository whose merges deploy ships on merge: detected from no release history and a workflow deploying on push to its trunk, or said in .github/rumkapsel.json; the merged crate goes to storage and straight up in a small rocket of its own, and its rows are forgotten when it climbs, since no source will ever say it shipped; the verbose scenario dump shows rockets and ledger rows</li>
-<li>A repository's release pipeline is read from its release history, where most work lands, where releases end and what is released onward, with the rarer merge direction taken as a back-merge; branch names are the fallback; .github/rumkapsel.json overrides both for everyone; the Releases tab shows each repository's pipeline and why; model-only pipeline tests</li>
-<li>Sharing shows more and clutters less: only offices worked in within twelve hours are shared; a shared office carries its pull request and checks and its sessions' life, drawn as real minions with their cones; a peer's local office someone works in is solid with its outline as a mark, and an idle one is dimmed; peer figures leave with their peer; the snapshot keeps its version so 0.27 peers still read it</li>
-<li>Every repository has its own way to production, read from its branches: trunk develop or main, staging only where it exists, production or master or main; releases from the trunk, staging, or a release or hotfix branch; a repository without staging loads its rocket from storage and its yard comes from git unless it uses the board's middle columns; the shuttle check counts only a ship down over its slot</li>
-<li>Hold space to run the station at four times speed: station time is stepped apart from the view, so walks stay walks and the camera stays on real time; a cue in the HUD while it is held, and a lost focus lets go</li>
-<li>A teammate's reaction ends before rest or the next reaction moves the body: the ownership rule had refused both, leaving teammates reacting from bed</li>
-<li>A relaunch takes the source's word again: a hand move from before is history, except aboard the rocket</li>
-<li>A source that changes its mind while a crate is on its way stands over the landing: the ledger remembers the yard an order was made against, so a board move during a haul is carried on after it lands rather than buried under the station's newer move; ledger rows in the state dump</li>
-<li>A rocket is loaded from the front: the crate aims at the tile before its own rocket's hull and the rocket is an obstacle, walked round, never through; whoever yields right of way steps aside where no way round exists; a chore never stands in a doorway; a verbose scenario and a simulator snapshot dump every body</li>
-<li>A crate is a task: an office's package takes the issue its pull request closes, the pull request's own number when it closes none; the link is learned from every pull request answer and the board and kept with the board; git's release cargo is translated to tasks on the floor; a crate's hover lists its pull requests and its click opens the task</li>
-<li>Any timed phase is steady, a teammate's reaction included; someone on a couch or in bed is off the walkway and in nobody's way; a given-up reaction ends the way a reaction ends</li>
-<li>A delivery is picked up, period: a new office's crate is an order by number shared by the shuttle, the floor and the carrier, so an office renamed while its ship is in the air is still walked in; a crate on the bay floor with nobody fetching goes to the next free hands and folds away only if its office is gone; a bay slot is free only when nothing lies on it; named waits give up after ninety station seconds; bodies solid by default; a state dump on SIGUSR1</li>
-<li>A job queued behind a rest survives the next rest re-plan, and begins the moment a worker is out of the shuttle</li>
-<li>The board's delta asks every not-shipped item by number, since a move on the board never touches the issue's own timestamp and the search missed every move; the running station writes station.log in Application Support: events, commands, give-ups and GitHub asks</li>
-<li>The counters and titles count your sessions only, not teammates, subagents or freed workers; options to hide the private station and the repository titles; the GitHub interval explained as the backstop it is</li>
-<li>One owner per body and a body reconciler: the command in hand owns place, path and pose, and send refuses anything else; a body standing still ten seconds in a phase that should move, waiting on nothing named, gives up and says so; a given-up carry goes back in the queue from where the crate lies, an office crate back on the bay list for the next free hands; deliveries are a queue; right of way when two meet; a scenario fails on an unexpected give-up; rockets standing by and due rings follow the pad when the floor grows</li>
-<li>A visit lasts its whole time: a session refresh no longer re-plans a bather's or a chore's rest under them; the shuttle holds over its slot until the carrier stands beside it; a floor change re-plans a fetch to the crate, not at random; a minion standing still mid-command for ten seconds says so in the log</li>
-<li>Two can pass on one tile, never through each other: a body is solid at its tile's middle, the way past runs along the edge; room rules written down: one doorway kept clear, fixtures along the walls, the sign in the far corner</li>
-<li>Nothing sits in a doorway: beds keep off the dorm's door cell and the bath's fixtures off its door and sign; a walk whose only way is past someone waits on them instead of finding no way; the Bath press picks like the Workout press</li>
-<li>The Workout press takes whoever is resting: a lounger first, then a quiet worker still counted busy, then a sleeping teammate; a turn in the gym is not cut short by a session refresh re-planning rest</li>
-<li>Faster feedback from GitHub: the board's delta, the feed as a doorbell, asks that expect a change</li>
-<li>The gym: a room off the living cluster, four fixtures, a turn that lasts its whole time</li>
-<li>A crate is a merged pull request: the rule as a check, the pull request asked by number</li>
-<li>A teammate's pull request that leaves the open list is asked whether it merged or closed</li>
-<li>The pallet's state has one home, every crate has a number, and the architecture notes are checked</li>
-<li>Leftovers off the floor, and the audit says what the code says</li>
-<li>A carry names a yard; the place is asked for on the way and remembered on the row</li>
-<li>One truth per crate: where the station has it joins its ledger row</li>
-<li>Truth before the picture, a carrier that hurries, and the reconciler per crate</li>
-<li>Station time is one value, and a route no longer rebuilds the yard on every step</li>
-<li>One crate ledger: the source's word and the station's, per crate, and the counts read off it</li>
-<li>The scenarios judge the run as it happened, not as it was worded</li>
-<li>The two truth scenarios name a crate the way the floor does: an unnumbered one is "a crate"</li>
-<li>Station truth outlasts a source that runs behind: hand landings by yard, one rule for what a yard holds, the reconciler out of the redraw, a redraw that adopts its nodes</li>
-<li>A deck over capacity spreads a repository's crates over its own columns rather than one tower</li>
-<li>Haul progress is read off the crates, not kept in flags: a merged office clears when its package's placement says it is down in the yard; the deck reconciler waits on carried crates</li>
-<li>A merged office clears when its crate lands in storage, not when it is picked up; a checkout that goes away mid-haul waits for the haul; a haul to storage survives the office closing</li>
-<li>A click on any part of a crate opens its pull request: the hit resolves to the named prop</li>
-<li>Repository colours come from the name, the same on every launch; the build stamp lives in About</li>
-<li>The app menu says which commit the build came from</li>
-<li>A wonder beat with a walk ahead is still a walk: the pallet errand begins at the console, not where the order came; cones are not in the way of their own row; a walk never ends on a cell with something standing on its middle</li>
-<li>One cone per session: the message being worked, queued ones in a row behind it, the old one shrinks away; repository names kept with the board so the deck is drawn right from launch; the world's diff runs before the redraw so a cleared crate is carried from where it stood</li>
-<li>A pallet errand is a job nothing calls the operator away from; whoever adopts one stands beside it; cones owed to an office land with its reveal; scenarios can forbid lines</li>
-<li>Shuttle flies on the station clock; the simulator's board catch-up waits on it too; a commit is stowed as a cube by command; the first release answer is quiet</li>
-<li>A pull request newly open on my checkout is announced from the poll's state change, so the office's worker packs it; an approach walks to the stand cell once and shuffles from there</li>
-<li>Carries approach on foot and never from on top of the slot; a pull request is packed by the office's worker; a pallet with no operator gets one; the pusher walks round the pallet</li>
-<li>Offices unfold from the hex at the doorway and roll back up on close; airlock is a 2x2 chamber with working doors; rocket loads through a hatch</li>
-<li>Solid: minions solid to each other, wait then walk round; inner lanes off the walls; walks re-planned when the floor changes; spawns spread into their offices</li>
-<li>STATION.md: an office closes by rolling up into a hex</li>
-<li>Orders: one entry point, a visible beat on a change of orders, phases that advance, a visit that lasts, fixtures reserved, no coin tosses; station time for patience and reactions; a merged office clears when its haul is done; the suite steps station time and runs in under a minute</li>
-<li>One table moves every crate's picture, on the station clock: no scene action moves a crate any more</li>
-<li>The rocket check fires at the climb; chores never stand on a buried cell</li>
-<li>Things are heavy: one lift, one set-down, and no empty launches</li>
-<li>STATION.md: the crate shrinks into the hold</li>
-<li>STATION.md: rockets are loaded at the foot; a moving pallet is solid</li>
-<li>An invariant checker and a scripted scenario suite</li>
-<li>STATION.md: the office unfolds from its crate at the doorway</li>
-<li>STATION.md: no shared spots even at the start, lanes clear of walls, the office ripples out from its crate</li>
-<li>Audit every command and cue against the rulebook</li>
-<li>STATION.md: a change of orders is visible</li>
-<li>The airlock stands in the corridor's line before the bay; the monolith answers with cones of light; crate plates are lights, off in the yard; the idle drift to the pad when a rocket steams</li>
-<li>STATION.md: answers from the interview</li>
-<li>The shower happens under the nozzle for its whole ten seconds; pace by task; QA inspects the stacks, not the floor</li>
-<li>The pallet is heavy: it is shoved one axis at a time</li>
-<li>STATION.md: what things are, what they may do, what may move them</li>
-<li>Every crate keeps its yard slot until it leaves; the pixel patch draws on top of the body; the board button says where it moves the issue; lightning only at the monolith</li>
-<li>Simulator: reset on its own line</li>
-<li>Simulator: a Reset org button that starts the station over</li>
-<li>Rebuild the simulator panel around one target office</li>
-<li>Simulator: a new session's branch goes in the chosen office's repository</li>
-<li>Simulator: issue numbers per repository, and the new-session button says which repo it uses</li>
-<li>A teammate's pull request is a crate with its sticker, not cubes; the office hex keeps its turn on the arms and waits for the ship to lift; the simulator tells a new branch from a pull request</li>
-<li>The staging pallet</li>
-<li>Shuttles, rockets and the crew run commands too</li>
-<li>Closed is not merged: a red crate that fades with the office; one merged event per merge; the rocket waits for crates still on someone's arms</li>
-<li>Carry polish: one crate size, set-down by level (crouch, slide, over the head, hop), the crate stays on the arms until its slot and nothing moves it after</li>
-<li>Split Scene.swift by reason to change</li>
-<li>Carries know the stack: top-down pickup, height-aware postures</li>
-<li>A simulator: the whole pipeline driven by hand, with every event and command in the log</li>
-<li>Spec: a crate is heavy, nothing moves it after release</li>
-<li>Spec: one crate size, no spin on release</li>
-<li>Spec: set-down postures per stack level, still owed</li>
-<li>Spec: set-down postures per stack level</li>
-<li>Spec: closed, not merged</li>
-<li>Pallet spec: impatient dispatcher, telekinetic loading and unloading, a bobbing pallet pushed to the deck</li>
-<li>Commands as values and station truth: minions run one command at a time with interruptible phases; completions write station truth; hover pauses a minion and shows its orders</li>
-<li>Architecture map: where this is going (facts, authority, commands, station truth)</li>
-<li>Split the data layer out of the scene into World</li>
-<li>A crate set down in storage by hand stays until the source counts it</li>
-<li>Cleanup round: per-repository readiness (no shuttles for a late first answer), a WorldEvent seam between diffs and cues, ARCHITECTURE.md</li>
-<li>Shower as a wall nozzle and a drain, clear of the sign; a low coffee table</li>
-<li>Cubes only where they mean something: a slab table on legs, flat tick and portholes; furniture blocks the floor</li>
-<li>A blocky plant: square pot, thin stem, flat leaves</li>
-<li>Nothing round: every turned shape gets four or six flat sides, spheres become cubes</li>
-<li>The bay is outside: with an airlock against it, everyone comes in and goes out through the hatch</li>
-<li>Own tempo and tool rota per minion, chores for loungers, sooner bath visits, an airlock by the bay that departures leave through</li>
-<li>No cone for an office that is gone (crash); a covered cone is worked from the cell beside it; a retarget never leaves the room</li>
-<li>Couch and bed pulls leave minions on errands alone; a carrier gives up its seat; a walker with no path walks straight rather than sliding</li>
-<li>The yard follows GitHub through the minions: crates the board moved to staging are carried across, counts snap only for the rest; the staging haul finds its crates again</li>
-<li>Night is the clock's business alone: a quiet afternoon is spent in the lounge, not in bed</li>
-<li>A merged office stays retired while its session lingers; the minion waits in the lounge instead of rebuilding it every scan</li>
-<li>Updates re-plan rather than reset: settled minions stay, walkers keep their destination; core tiles stop replaying their build; couches drawn by wall, not by index</li>
-<li>Crates are carried to the slot the yard layout will give them, so nothing jumps on landing; lifting is a crouch with the crate passing the chest</li>
-<li>Dorm and bath placed beside the lounge, existing layouts re-clustered; one minion to a couch</li>
-<li>Rules for idleness: read on the couch by day, sleep by night, showers after long work, pees after short, loungers now and then</li>
-<li>The bath's pixel patch sits where it should; a visit is a pee at the bowl or a shower under falling pixels</li>
-<li>Doorways through the yard, a bath with pixel static, a livelier lounge, my name on my offices</li>
-<li>Tested crates nearest the pad, crates grouped by repository in stacks of three</li>
-<li>Deck split into an untested row and a tested row; a tested crate is carried across; status plate on the side, approved sticker on the lid</li>
-<li>Latest release notes in the app menu: What's New shows the notes bundled with the build</li>
-<li>Bold black ink on tiles, boxes and cones keep off the writing and inside their tile</li>
-<li>No board offices before GitHub has said who I am</li>
-<li>An office already on the floor is no proof of work; only peers' claims and checkouts are</li>
-<li>Dark ink on tiles, names as floor signage, open pull requests only, no archive flapping</li>
-<li>Board column decides an office's solidity, not its existence; board state persists across launches</li>
-<li>Yard and cues from the GitHub project board, offices for issues in development, release notes from commits</li>
-<li>Translucent feet under props, the office hex without a plane, cones land clear of crates near the door</li>
-<li>A cell under a crate is no destination: walks settle for the nearest free floor</li>
-<li>Minions walk round crates, boxes and pyramids on a finer grid; aisles through storage and the deck</li>
-<li>PR marker is the square strapped crate again; hex stays the packed office</li>
-<li>Kick offices, honest sharing light, crates with stickers carried by hand, hammer and flashlight, boxes away from the door</li>
-<li>Peers share parsed GitHub answers so one poll serves the room; README on sharing</li>
-<li>Peers share offices by branch onto one work station instead of standing beside it</li>
-<li>Fold the crew station into the work station: teammates' branches share offices with local checkouts</li>
-<li>Cursor-centred zoom, two-finger pan, drag tilt, WASD/QE camera keys, station hotkeys 0-4</li>
-<li>Readable labels on small offices, no closets against the hallway, calm settings changes</li>
-<li>Smaller odd-sized offices, 4x2 bay across the south arm</li>
-<li>Squarer fleet, yard along the west side, cursor-pivot rotate, snappy panning</li>
-<li>Yard in a line with 4x4 storage, staging and pad; couches and a standing crew; loading on clearance with steam; impatient tester</li>
-<li>Worker crew: free workers are reused, shuttles bring more, extras fade when bunks are full</li>
-<li>Pyramids move with their station and vanish with their office</li>
-<li>Production branch per repository: configured, else main, else master</li>
-<li>Prompt pyramids only in offices</li>
-<li>Exact staging/production diff from git; clickable crates; minion shadows; bunk beds with lounge overflow</li>
-<li>Sci-fi tools: flat goggles, tablet, scanner, forward-held hammer; testing sweeps instead of spinning</li>
-<li>Repair cargo detection: only repositories with a real release pipeline, thirty-day floor</li>
-<li>Cargo only for repositories with a real release pipeline; thirty-day floor</li>
-<li>Game-style pyramids with feet, crate packages, minion tools, more distinct routines</li>
-<li>Graphics gallery window: every prop and animation on a labelled tile</li>
-<li>Wider repo palette; a spinner beside a repo title while it refreshes from GitHub</li>
-<li>Bounded room placement; share repositories individually, nothing shared by default</li>
-<li>Larger launch pad, storage yard and test deck</li>
-<li>Fix a render-thread spin when a queued message has no room to put its cone in</li>
-<li>One package per pull request; storage and deck from GitHub; proper rising; cone spots; lounge; archive cancels hauls</li>
-<li>Sharing indicator in the HUD</li>
-<li>Bonjour peers: share stations on the local network</li>
-<li>Rockets grow with cargo; faint rings on the pad when a release is due</li>
-<li>Storage keeps repo colours; rockets load only their own repo's boxes</li>
-<li>One cone per message; queued messages show as dim cones</li>
-<li>Uncommitted work shows as translucent boxes; minions stand beside the cone and bend from the feet</li>
-<li>CI status pulses red; stale rooms gather dust; haul thuds; welding, hammering, pushing and bending at the cone</li>
-<li>Rooms persist and lose power instead of vanishing; room-coloured prompt cones; three box sizes; storage bay with merge hauling and rocket loading; steadier settings layout</li>
-<li>Settings window: station rule, per-repo station and crew overrides, people names, general options</li>
-<li>Configurable station rule; updater only inside a bundle and never headless</li>
-<li>Work station by GitHub owner, configurable; works without Conductor</li>
-<li>README: homage to rymdkapsel</li>
-<li>Rename to rumkapsel</li>
-<li>Update notice in the station log; feature request and bug report menu items</li>
-<li>Sparkle updates, Developer ID signing and notarisation in the release script</li>
-<li>Float on top is a remembered preference, off by default; launch in the background</li>
-<li>Bolder condensed signage without tracking</li>
-<li>Signage tucked into room corners</li>
-<li>Uppercase signage in room accent colours; release script</li>
-<li>Clean tile borders, centred short labels, crew display names, stale merged rooms archived, corridor growth, activity-driven music layers</li>
-<li>A failed open-PR fetch is not an empty list</li>
-<li>Workspace rooms live while the Conductor folder exists; scan two weeks of transcripts</li>
-<li>Dark rooms keep their repo colour, just dimmed</li>
-<li>Simple room ladder: dark until a branch, lit after; boxes only for commits</li>
-<li>PR implies pushed; unlaid tiles are a dark subfloor</li>
-<li>Rooms fill in tile by tile with branch progress; no dashed outlines</li>
-<li>Crew counts as loaded only once every repo has answered</li>
-<li>Commits counted against develop; local branches are placeholders until pushed; minions carry new commit boxes in</li>
-<li>Shuttles arrive from random corners with a yaw drift; crate lifts smoothly onto the minion</li>
-<li>Crew offices only for PRs touched in the last two weeks</li>
-<li>Crew station goes live: open PRs as offices, pushes as boxes, only fresh events animate</li>
-<li>Crew from the repository events feed; bots bay; work-crew bridge; anchored slow shuttle landings with hex crates; merged branches leave</li>
-<li>Crew station: teammates' pull requests replayed over the day; archive animation; crew focus key</li>
-<li>Branchless sessions get a grey placeholder office; branch creation orders the real one</li>
-<li>Eight beds; overflow sleepers lie in the hallway</li>
-<li>Minions sleep as long as their office stands</li>
-<li>Star field, untested releases hold on the pad with tape and gantry, QA sessions inspect the rocket</li>
-<li>Strict doorway crossing; per-activity working animations</li>
-<li>Resolve worktrees to the main checkout; one release root per repo; refresh on focus</li>
-<li>Clicking a minion refreshes its repo on GitHub</li>
-<li>Cooler centred rocket, releases for all Conductor repos, no SpriteKit shape nodes</li>
-<li>Slow lift-off; staging rocket yields to production</li>
-<li>G refreshes GitHub on demand</li>
-<li>Launch pad with release rockets, more robust PR lookup, PR state change log</li>
-<li>Keep PR status colours distinct on boxes</li>
-<li>Room-tinted boxes with flat shading and floor shadows</li>
-<li>Doorways as open edges in the border, like the game</li>
-<li>Doorways, in-place office renames, sway/jump/pace animations, cluttered commit boxes</li>
-<li>Remove orphaned construction outlines</li>
-<li>Hangar at the outer south arm, offices delivered by ship</li>
-<li>Render-thread mutation, FSEvents scanning, lightning, commit boxes, label collisions</li>
-<li>rymdkapsel: Claude sessions as a space station</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.31/rumkapsel-0.31.zip" length="4230113" type="application/octet-stream" sparkle:edSignature="J4Y31bmYJLrVqdJArS9qKok/SGHf3ZlfXgWeg+5K6OzObc62th03h30fkOuF2Q3eAVxTG8baSYA9DStjQ3QECg=="/>
-        </item>
-        <item>
             <title>0.1</title>
             <pubDate>Wed, 09 Sep 2026 10:06:55 +0200</pubDate>
             <sparkle:version>202609091005</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.33/rumkapsel-0.1.zip" length="1559587" type="application/octet-stream" sparkle:edSignature="jVWD5NxYnrX8j+dbMRK1w03cKoPEfe9iynDwcbCqM9Kwwtg3yTnKsrid2dfUbjpPR/22FMPnmaUilRnBMw3wAg=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.34/rumkapsel-0.1.zip" length="1559587" type="application/octet-stream" sparkle:edSignature="jVWD5NxYnrX8j+dbMRK1w03cKoPEfe9iynDwcbCqM9Kwwtg3yTnKsrid2dfUbjpPR/22FMPnmaUilRnBMw3wAg=="/>
         </item>
     </channel>
 </rss>
