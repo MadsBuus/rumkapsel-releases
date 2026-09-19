@@ -3,6 +3,61 @@
     <channel>
         <title>rumkapsel</title>
         <item>
+            <title>0.46</title>
+            <pubDate>Sat, 19 Sep 2026 17:45:15 +0200</pubDate>
+            <sparkle:version>202609191743</sparkle:version>
+            <sparkle:shortVersionString>0.46</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Pull requests read as an integration that only reports; a merged office found at launch is placed, not carried</li>
+<li>A plain tower with a lift rail, and a conveyor that carries the crates, small, into the hatch</li>
+<li>The hatch is white like the hull with a seam round it, and a black hole while a crate goes in</li>
+<li>One gangway from the tower to the hatch, and it swings back once the rocket is loaded</li>
+<li>Cargo goes up the service tower and in through a hatch high on the payload section</li>
+<li>The one-time framing when the floor has arrived leaves a view already being driven alone</li>
+<li>An engine bell under the hull, and the legs splayed out at the foot: they leaned in, like the fins had</li>
+<li>A rocket stands on a launch mount, not on landing legs</li>
+<li>The fins sit closer in on the hull</li>
+<li>A tail fin hugs the hull at the top and flares out at the foot; it leaned the other way</li>
+<li>The tape goes: the service tower alone says held, as on a real pad</li>
+<li>The service tower: steel lattice, platforms, a swing arm, in place of a wooden ladder</li>
+<li>Your crate is strapped in white from the moment it is packed, and a label cannot re-tape a rocket the record has cleared</li>
+<li>WIRING.md: what has folded into the record, and the one thing still inline</li>
+<li>Whose work it is, what it is called and where it is on GitHub are the record's</li>
+<li>Nobody stands on a crate row: a carrier works from the aisle beside it</li>
+<li>The register tells pull requests from issues; the workflow can be set by hand</li>
+<li>The stage panel's scenario is green: waiting stage changes are tried on the tick, and a launch loads what the record says shipped</li>
+<li>The simulator's Stage panel: a stage said straight to the record, and a scenario that drives the yard with it alone</li>
+<li>The QA minion, the bot rule and the trunk list read one place each</li>
+<li>The ledger hears the record, not the counts</li>
+<li>WIRING.md: what decides each stage now, and what is still to fold in</li>
+<li>QA and Cleared are the record's word: crates go to the staging area and across it on its transitions</li>
+<li>Shipped is the record's word: a rocket waits wherever work is waiting, and goes up when the record says so</li>
+<li>A repository's workflow: detected from its pipeline and board, the record's rules read it, Settings shows it</li>
+<li>STAGES.md: the workflow is the repository's, one question per stage</li>
+<li>Ready is the record's word: stage changes become station events in one place</li>
+<li>STAGES.md: the tests split at the stage, the station's reactions from the integrations' mappings</li>
+<li>Stored is the record's word: an office's crate is hauled when the record says so</li>
+<li>The record hears teammates' work and a pull request closing</li>
+<li>Every piece of work has a stage, and the record shadows the floor</li>
+<li>Every piece of work has one record, by every name it goes by</li>
+<li>One rule for what a piece of work is called, wherever it was heard of</li>
+<li>Neighbours talk in station terms: stages and identities, never another station's integration data</li>
+<li>The stages a piece of work goes through, and how the code decides them today</li>
+<li>Settings reorganised around each repository, and a repository's colour comes from its name</li>
+<li>A session in an archived workspace no longer puts its office back. The scan counted any session whose directory was still on disk, and the desktop app leaves an archived worktree's directory behind, so a subagent's recent transcript there raised the office on every scan and the archived-workspace rule took it down again. A session now counts only while its workspace is open, and the registry cache it asks takes a lock, since the scan asks from its own queue.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.46/rumkapsel-0.46.zip" length="6002519" type="application/octet-stream" sparkle:edSignature="dWNL0+d4hTRpvtA685D6gFhQ6v9VZ+Cl5N8UXLGiuJYbBKid9XIj4tDyTaFxcHA6CxVyPQapYYtS1DBG40OhDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.46/rumkapsel202609191743-202609181455.delta" sparkle:deltaFrom="202609181455" length="1345542" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uMvkiS+sX4GEO9bbFw4CoxJT9ujWYZHiImhJskg5A5pAD8v8RZhCNYfYoV9YlkS7Q28Wbp4SzU4U5OUCuV+wAQ=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.46/rumkapsel202609191743-202609181328.delta" sparkle:deltaFrom="202609181328" length="1369338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="J2O6h76Wq409QPIz8JKxOM1FpY7dKA2/Zux+5BJTIrxZiZ2FMkPx3FigOM9HEzmeXrBmyCUdhDcyto6krN2MAg=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.46/rumkapsel202609191743-202609180841.delta" sparkle:deltaFrom="202609180841" length="1422302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9IyI3g4KN1Dzzln/txZyk0Q/h7KliTZwkdfc2rgOLNuib/zmR82dHokd4PEVR3OttAeIYXlxaT0I7xQOR5UKBQ=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.46/rumkapsel202609191743-202609171101.delta" sparkle:deltaFrom="202609171101" length="1981982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5lwhs4X2hUoZVhKk2KcjxlyaljBmCy1tKrYuF3QB38T5mbM0c07H98vvjIzAo781mlFa4LFXkGSGvf1jE69kAw=="/>
+                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.46/rumkapsel202609191743-202609170324.delta" sparkle:deltaFrom="202609170324" length="2106610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="l+yglUmyFlY2SZmc0mzBm5crrKa5S3DjW8e+mInLsmYLZhLgNN12WCtQr4RZ3uLA2wZYT+zryTEX939g2+97Bw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.45</title>
             <pubDate>Fri, 18 Sep 2026 14:59:43 +0200</pubDate>
             <sparkle:version>202609181455</sparkle:version>
@@ -15,7 +70,7 @@
 <li>A session that changed directory into its checkout keeps its office. Its last recorded directory was Sources/Rumkapsel inside the worktree, and the desktop app leases the worktree itself, so the office counted as archived on every scan and was put straight back: a thousand times in an hour. A session's directory is now the checkout it lies in, the nearest folder holding a .git.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.45/rumkapsel-0.45.zip" length="5579656" type="application/octet-stream" sparkle:edSignature="LJN6lH0Ocf7DL9vO2z97BxQcfXR3jUrGnuVQXP4iQ0+p+qfxzV79KlJyU2rpLvWZCY0TZ5tWoxNu63JSz3VZCw=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.46/rumkapsel-0.45.zip" length="5579656" type="application/octet-stream" sparkle:edSignature="LJN6lH0Ocf7DL9vO2z97BxQcfXR3jUrGnuVQXP4iQ0+p+qfxzV79KlJyU2rpLvWZCY0TZ5tWoxNu63JSz3VZCw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.45/rumkapsel202609181455-202609181328.delta" sparkle:deltaFrom="202609181328" length="451582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q/BcuoEpgH2+Xfuc3/UhRkUeAcOLvciGf4VTXX/khmpJhdF0boJYobhRk/oQY2aZEOiB8IPyi7XBVC8pVHufDQ=="/>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.45/rumkapsel202609181455-202609180841.delta" sparkle:deltaFrom="202609180841" length="587502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OSa07dNOsai8EroulQSECxXuXz06K8exyvnLMY2bgm7SlMzr4BXH0nnMZe6YZCJ3QkjPUIJtjThuWgcFjXLQDA=="/>
@@ -38,7 +93,7 @@
 <li>A carrier left standing where the floor went away walks back onto it, and a crate put down off the floor lands on it instead. One stood in space with a crate on its arms for an hour, giving up and being sent again every twelve seconds: a walk could neither start nor end off the floor, and every give-up dropped the crate out of reach of anyone else. A walk from off the floor now goes straight to the nearest floor cell first, and a dropped crate lands on the nearest floor.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.45/rumkapsel-0.44.zip" length="5562591" type="application/octet-stream" sparkle:edSignature="IAhC0pSz+bZxGI+3gimyik2KyQqfoHM0JjtHkny9Er3yvyedAbCwqS1+88bU1l76aMwP4dAP1t5uFmEO01VjBg=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.46/rumkapsel-0.44.zip" length="5562591" type="application/octet-stream" sparkle:edSignature="IAhC0pSz+bZxGI+3gimyik2KyQqfoHM0JjtHkny9Er3yvyedAbCwqS1+88bU1l76aMwP4dAP1t5uFmEO01VjBg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.44/rumkapsel202609181328-202609180841.delta" sparkle:deltaFrom="202609180841" length="552642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4mdMDIOzpLBkQcxG8Q8Qsy6tnOBAYdpig2/qClqEWr7Oj/GYbqA1J6oqUNfKXfT0PW2PGMJHAIeh9ksqVq80Aw=="/>
                 <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.44/rumkapsel202609181328-202609171101.delta" sparkle:deltaFrom="202609171101" length="1367230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WYuU1zEwwJUEGHYmE7xr6Aj2BPkwySxgExB8gbtjQvv939wi68sfIZTAu2BEMyjkKPUx8XOFJA2OV/NxldFCAA=="/>
@@ -48,46 +103,13 @@
             </sparkle:deltas>
         </item>
         <item>
-            <title>0.43</title>
-            <pubDate>Fri, 18 Sep 2026 08:43:21 +0200</pubDate>
-            <sparkle:version>202609180841</sparkle:version>
-            <sparkle:shortVersionString>0.43</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>The Kingdom keeps what it can between redraws, since it was giving back everything the floor work won. A redraw of a forty-office castle cost 1,447ms against Classic's 116ms, and measuring it a piece at a time found the whole of it in one place: the ground. With the world left out the same redraw is 86ms, which is quicker than Classic; everything else this look draws is already cheap.</li>
-<li>The Kingdom says what it draws, since the gate now asks. It takes every piece a look may hand over but the floor lettering, which it does without: a ward is known by its banner. Whether a theme letters its floor is part of what it claims rather than a name checked in the test</li>
-<li>A ward is a room you can read: boarded floors inside, cobbles on the street, its own wall round it and its number on its banner. A look is told what an office is known by — its issue, whoever is in it, and the name that would have been written — so it can mark the office some other way; the Kingdom flies the number, since a name will not fit on a banner and a number will, with the occupant under it, and the banner carries the office's own name for the pointer, so it is hovered and clicked like the ward it stands over.</li>
-<li>The scroll hangs the way the slab does. It carried the tablet's numbers from before they were corrected: a positive pitch drops the far edge and turns the writing away, so a look that brings its own tool reproduced a bug the classic piece no longer has</li>
-<li>The castle's people are its own, so the twelve kit figures go with them: twenty thousand lines of models nobody draws, and with them the last steel drums, which stood at the caravan gate and in the tavern where the pirate kit's barrels belong. The gallery shows what the look draws rather than the scene's own piece, and gains a tile for the pieces a look may now hand over: the handcart, the lectern and a stack of bound chests</li>
-<li>Round two: what a look may not draw, it may now. Four things a theme could not touch were hardcoded in the scene, so they are hooks rather than workarounds: the console a pallet is ordered at, the crate work rides in, what stands round a release that is held, and the float that carries goods; and a look may now say that nothing is lettered on its floor, and carry the names itself.</li>
-<li>A keep worth finding, a harbour with water in it, and the kits cut back to what the castle uses. The center is built rather than borrowed: a square donjon on a stone motte, four turrets carried past its battlements, tall lights on every face, a great door at its foot and the banner at the top, where it was a small tower that could have stood anywhere.</li>
-<li>The Kingdom becomes a castle, and what is shipped sails. The curtain wall is run along the station's own outline, a stretch of rampart on every edge that faces open ground with towers at corners well apart, so the castle's shape is the floor plan's and it gains a new stretch whenever an office opens; a straight run is one stone rather than one a tile, and the stones are baked into a geometry of their own, since flattenedClone loses where pieces stand when they were never in a scene. Offices are flagstoned wards with the house's banner at the wall where they were tilled fields, and hallways are cobbled.</li>
-<li>Kenney Kingdom: each station a harbour village in a world of its own</li>
-<li>The Cape is only known as far as the station reaches. Past that the ground fades into fog in the colour of the sky — veils laid one over the next as the known world runs out, the last of them solid — and the fog draws back as the station grows, a grid square at a time. Nothing is built in it: the coast is cut and the scatter is walked only over the ground somebody can see, so a forty-office redraw that builds the Cape is 342ms where it was 484ms. The edge of what is known wanders rather than following the fleet's rectangle</li>
-<li>One station, always. Sessions could be split across two by a rule — conductor workspaces as work and the rest private, or work by owning organisation — and a fresh install with a conductor folder took that rule by default, with the private station shown, so every new user had two stations whether they wanted them or not. There is one now: every session lands on it unless its repository is kept off.</li>
-<li>The Cape is kept between redraws. Space Center gave back what the floor work won: a redraw of a forty-office fleet cost 861ms against Classic's 117ms, and the whole of it was the ground, cut afresh every time an office opened.</li>
-<li>A gate for what a look promises to draw, and Space Center's own pieces. A look conforms by shape, not by declaration, and Swift has no override keyword to catch a method that has stopped matching its requirement: the old one keeps compiling, nothing calls it, and the default is used instead, which is how every office quietly lost its desk. So each theme now says what it draws differently from the classic station and --look-tests holds it to that, asking the look for every piece that has a classic default and failing where a claim comes back empty. Theme.allCases drives the run, so a theme added without a word about what it draws fails the gate; putting the old signature back makes it fail on the desk.</li>
-<li>Five more pieces a look may draw, and a sign an office is known by. The scene built the console a pallet is ordered at, the crate work rides in, the barrier round a release that is held and the float that carries goods, and no theme could touch any of them; each is a hook now, with the classic piece as the default, so a look says only what it draws differently. A look may also say that nothing is lettered on its floor, in which case it carries the names itself, and an office's dressing is given what that office is known by — its issue number, whoever is working in it, and the name that would have been written — and is named for the office, so whatever a look puts there is hovered and clicked like the ward it stands over.</li>
-<li>A tag is a release</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.45/rumkapsel-0.43.zip" length="5542276" type="application/octet-stream" sparkle:edSignature="ZEmmqXKPIIUASyAVAuvhDp8tKMMiId2SSThB7W3QKrFk14nHwuT3Zg9zt6Fy7Biz4BOoehro2+zQAW/R+XC0CQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.43/rumkapsel202609180841-202609171101.delta" sparkle:deltaFrom="202609171101" length="1308422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UaD/zKHIbZCc1xMArN54SWdGPMN77V7Cur3sKxnN/ZeaAja3l468A+wbsLcFjNK7X4z1G81abNwQUaL1tkdOBA=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.43/rumkapsel202609180841-202609170324.delta" sparkle:deltaFrom="202609170324" length="1474682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8JzoG232kh6/IkZ1qaCmYLJu6Lanz4Wy6f55SaLrMwgjewOzgmRjMKBw9jW0Zv/m55FCxtg1HGRav3Cv2B0YDQ=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.43/rumkapsel202609180841-202609170024.delta" sparkle:deltaFrom="202609170024" length="1670710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Pm+swg7B0t0WLCigHIR8wHEJ1n8TmGRwttdlpENhoaEfdL0iToXRQFsfMNV4iP4ynsKxYKX8T4XF14dvNLKtDw=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.43/rumkapsel202609180841-202609161425.delta" sparkle:deltaFrom="202609161425" length="1813170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sSSwurI3mdOpKvaIv9rMCysU2Rduu5+l4e0L12q/r+2/tg35VX0sAJFRQC30HEg64uWXfYRAzBj8TkIOjiJvAg=="/>
-                <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.43/rumkapsel202609180841-202609161408.delta" sparkle:deltaFrom="202609161408" length="1880814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AWXH368O5zKBVkqp5XQP/ikdoG7MlW60sKT2Tr6RN9SGidD9W/VmmisWuRmO/EDCl07oSNoB1QjgnKrFqM1hBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
             <title>0.1</title>
             <pubDate>Wed, 09 Sep 2026 10:06:55 +0200</pubDate>
             <sparkle:version>202609091005</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.45/rumkapsel-0.1.zip" length="1559587" type="application/octet-stream" sparkle:edSignature="jVWD5NxYnrX8j+dbMRK1w03cKoPEfe9iynDwcbCqM9Kwwtg3yTnKsrid2dfUbjpPR/22FMPnmaUilRnBMw3wAg=="/>
+            <enclosure url="https://github.com/MadsBuus/rumkapsel-releases/releases/download/v0.46/rumkapsel-0.1.zip" length="1559587" type="application/octet-stream" sparkle:edSignature="jVWD5NxYnrX8j+dbMRK1w03cKoPEfe9iynDwcbCqM9Kwwtg3yTnKsrid2dfUbjpPR/22FMPnmaUilRnBMw3wAg=="/>
         </item>
     </channel>
 </rss>
